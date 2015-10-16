@@ -1,0 +1,158 @@
+
+/* Page */
+html, body, .contentpane {
+	margin: 0;
+	padding: 0;
+	width: 600px;
+}
+a, a:link, a:visited {
+	color: #0b55c4;
+	text-decoration: none;
+}
+a:hover {
+	color: #0b55c4;
+	text-decoration: underline;
+}
+input:focus, select:focus, textarea:focus {
+	background-color: #ffd;
+}
+
+/* Linkr links */
+div.llGroup {
+	clear: both;
+	margin: 0 0 5px 0;
+	padding: 0 0 5px 0;
+}
+div.llTitle {
+	float: left;
+	margin: 0 5px 0 0;
+	padding: 0 5px 0 0;
+	width: 49px;
+	border-right: 1px solid silver;
+	text-align: right;
+}
+div.llContent {
+	float: left;
+	width: 520px;
+	color: silver;
+}
+
+/* Files */
+#filedirlist {
+	clear: both;
+	width: 580px;
+	height: 120px;
+	overflow: auto;
+}
+#filedirlist div.item {
+	float: left;
+	width: 70px;
+	border: 1px solid #fff;
+	background-color: #fff;
+	text-align: center;
+}
+#filedirlist div.s-item {
+	float: left;
+	width: 560px;
+}
+#filedirlist div.up {
+	border-top: 1px solid #ddd;
+	border-right: 1px solid #bbb;
+	border-bottom: 1px solid #aaa;
+	border-left: 1px solid #ddd;
+	background-color: #f9f9f9;
+}
+#filedirlist div.item div.name {
+	height: 18px;
+}
+#filedirlist div.item div.name img.link {
+	margin: 0 2px;
+	padding: 1px;
+}
+#filedirlist div.item div.icon div.border {
+	margin-top: 10px;
+	height: 45px;
+	width: 68px;
+	vertical-align: middle;
+	overflow: hidden;
+}
+#filedirlist div.item div.icon div.border a {
+	height: 45px;
+	width: 68px;
+	display: block;
+}
+#filedirlist div.folder:hover {
+	border-top: 1px solid #ddd;
+	border-right: 1px solid #bbb;
+	border-bottom: 1px solid #aaa;
+	border-left: 1px solid #ddd;
+	background-color: #f9f9f9;
+	cursor: pointer;
+}
+#filedirlist div.up:hover, #filedirlist div.s-item:hover {
+	background-color: #eee;
+	cursor: pointer;
+}
+#fileresize {
+	margin: 0 0 5px 0;
+	cursor: row-resize;
+	text-align: center;
+	background-color: #eee;
+}
+
+/* Tree */
+#treeDiv {
+	margin: 0;
+	padding: 0 0 0 20px;
+}
+#tree, #tree ul {
+	margin: 0;
+	padding: 0 0 0 20px;
+	list-style: none;
+}
+#tree li {
+	margin: 3px 0;
+	background: none;
+}
+#tree img {
+	margin: 0 3px 0 0;
+}
+
+/* Link config */
+#settings {
+	padding: 5px;
+	margin-bottom: 5px;
+	background-color: #eee;
+}
+label {
+	margin: 5px;
+	width: 100px;
+	float: left;
+	text-align: right;
+}
+label.none {
+	margin: 0;
+	width: auto;
+	float: none;
+}
+.value{ width:425px; }
+
+/* Titles */
+h2.linkrh2 { margin-left:80px; width:auto; font-size:14px; }
+h4.linkrh4 { text-align:center; width:auto; font-size:12px; }
+
+/* Linkr specific */
+#linkr {
+	margin: 5px;
+	padding: 5px;
+	color: #333;
+	font-size: 12px;
+}
+div.linkr-notice {
+	margin: 10px;
+	padding: 5px;
+	border: 1px solid #aaa;
+	background-color: #ffd;
+	text-align: center;
+	font-size: 14px;
+}

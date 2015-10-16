@@ -1,0 +1,15 @@
+/* interactive.css */
+
+#content > p {font-size: 16px; }
+
+.description p {margin: 0px 200px 15px 0px; }
+
+p {clear: both; }
+
+img {float: left; }
+
+.samples img {margin: 0px 0px 3px 3px; }
+
+#personal {padding-top: 20px; }
+
+.clear {padding-top: 10px; }

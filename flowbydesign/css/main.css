@@ -1,0 +1,60 @@
+body {
+	font-family: Candara, Meta, Futura BK, Verdana, sans-serif;
+	color: #00a8c4;
+	background: black url(../images/wood.jpg) center;
+}
+
+a {
+	color: #00a8c4;
+}
+
+a:visited {
+	color: #00a8c4;
+}
+
+a:active {
+	color: #00a8c4;
+}
+
+p {
+	font-size: 14px;
+}
+
+/* @group sections */
+
+div#footer {
+	padding-top: 5px;
+	border-top: silver 2px solid;
+	margin-top: 20px;
+	text-align: right;
+}
+div#footer p.note {
+	font-size: 12px;
+}
+
+div#header {
+	text-align: right;
+	padding-bottom: 5px;
+	margin-bottom: 20px;
+	border-bottom: silver 2px solid;
+}
+
+div#main {
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 800px;
+}
+
+div#menu {
+	float: left;
+	margin-top: 25px;
+	line-height: 1.5em;
+}
+
+div#text {
+	margin-top: 50px;
+	margin-left: 150px;
+}
+
+/* @end */

@@ -1,0 +1,181 @@
+<html>
+<head>
+    <title>bostonsubway.info // frequently asked questions.</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="css/info.css" />
+</head>
+<body>
+    <div id="main">
+    <center>
+        <a href="http://www.bostonsubway.info"><img src="images/bostonsubway.png" border="0" /></a>
+        <br/>
+    <a href="mailto:subwaymaps@gmail.com">subwaymaps@gmail.com</a>: let us know what you think!<br/>
+    <br/>
+    Created By:
+    <br/>
+    Michael Ho | Jason Gu
+    </center>
+    <div id="questions">
+    <dl>
+        <dt>What did you use to make this site?</dt>
+        <dd>All the coding was done by hand using SubEthaEdit on a 12" Apple Powerbook G4 [[edit: also on my Mac Pro]]. Technologies include PHP, CSS, and Javascript. Mike found it easier to develop on my Mac, mainly because Mike could program anywhere. For example, Mike's currently writing this FAQ while lounging on the grass in Central Park.</dd>
+        <dt>What browsers are supported?</dt>
+        <dd>All browsers should work. So far, we've tested Firefox 2.0.0.11, Firefox 1.0.6, Internet Explorer 6.0.2900.2180, Opera 8.0, Safari 2.0 (412.2)</dd>
+        <dt>What gave the inspiration for <b>bostonsubway.info</b>?</dt>
+        <dd>Well, Mike decided to put one together for the Boston area after having built the New York City version.</dd>
+    </dl>
+    </div>
+    <div id="updates">
+    <dl>
+        <dt class="date">2008 February 5</dt>
+        <dd>
+            <ul>
+                <li>Fixed problem where intersections weren't being found correctly.</li>
+                <li>Fixed/improved reporting when search did not find the location.</li>
+                <li>Fixed a bug in the marker link next to an end location if the start had multiple locations or no locations.</li>
+            </ul>
+        </dd>
+        <dt class="date">2008 February 4</dt>
+        <dd>
+            <ul>
+                <li>Fix location display where street is not available.</li>
+            </ul>
+        </dd>
+        <dt class="date">2008 February 2</dt>
+        <dd>
+            <ul>
+                <li>Remembers what map type was last used.</li>
+            </ul>
+        </dd>
+        <dt class="date">2008 January 31</dt>
+        <dd>
+            The big things:
+            <ul>
+                <li>Alternate start and end stations has been restored to working order.</li>
+                <li>Code has been reorganized and cleaned up. End user won't notice, but will make it easier to roll out new fixes/features.</li>
+                <li>Fixed bug in algorithm where a path would end at the first station it finds without checking to see if another station is closer.</li>
+                <li>New and improved location finding code. It's much more accurate than before and increases granularity of the search results.</li>
+                <li>New functionality for determining addresses.</li>
+            </ul>
+            The little things:
+            <ul>
+                <li>Fixed output of Start address and End address.</li>
+                <li>Improved output of multiple locations.</li>
+                <li>If only one address is inserted into the directions form, then it will run an address search instead.</li>
+            </ul>
+        </dd>
+        <dt class="date">2008 January 15</dt>
+        <dd>
+            <ul>
+                <li>Some minor tweaks with the algorithm. Path directions displayed on the right side have been improved.</li>
+            </ul>
+        </dd>
+        <dt class="date">2008 January 10</dt>
+        <dd>
+            I had brought back <b>bostonsubway.info</b> on December 14th, but it was still the old version. Out with the old and in with the new, right? So here it is: the new, improved version of <b>bostonsubway.info</b>! It's a hundred times better than before, with many updates and improved accuracy.
+            <ul>
+                <li>Fixed issues with displaying directions.</li>
+            </ul>
+        </dd>
+        <dt class="date">2008 January 7</dt>
+        <dd>
+            Wow.. it's been a long day and many things were fixed. I don't think I can list them all, but here goes.
+            <ul>
+                <li>Copyright added.</li>
+                <li>Start and End addresses now use marker icon instead of number.</li>
+                <li>Fixed listing of steps. There was a quirkiness of choosing which lines to take.</li>
+                <li>Map link was added to the PDF map of the system.</li>
+                <li>Transfer times are now factored into the algorithm.</li>
+                <li>UI was cleaned up a bit (no more confusing time, transfer, waiting columns).</li>
+                <li>Fixed bug where lines from potential end stations to the end location weren't being drawn correctly.</li>
+                <li>Fixed some database issues.</li>
+            </ul>
+        </dd>
+        <dt class="date">2008 January 6</dt>
+        <dd>
+            Defect fixing release! We're still going through the database to make sure everything works right. The algorithm was tweaked to improve performance, especially on locations of long distance. Major changes have been made, so please try it out!
+            <ul>
+                <li>Fixed issue where certain paths could not be found</li>
+                <li>Fixed output problem with times that had seconds &lt; 10</li>
+                <li>Modified algorithm to improve accuracy. Also made it more flexible for finding obscure routes.</li>
+            </ul>
+        </dd>
+        <dt class="date">2008 January 4</dt>
+        <dd>
+            <ul>
+                <li>Version 3.0 released.</li>
+                <li>New algorithm! Search is more accurate than ever before.</li>
+            </ul>
+        </dd>
+    	<dt class="date">2007 December 14</dt>
+    	<dd>
+            Back and better than ever!<br/>
+            I want to post this quick since it's 01:32 and I'm tired. This site has been down and out of commission for a while, but I decided it was time to bring it back.<br/><br/>
+            Some things I want to point out:
+            <ul>
+                <li>It now allows selection of multiple addresses. It will also find the fastest path (not the shortest), which means it <b>can</b> and does differentiate between local and express trains.</li>
+                <li>There was no previous inspiration other than my deep frustration with the lack of direction finding while living in NYC.</li>
+                <li>This is always a work in progress, so please, feedback is much appreciated! digression-dawt-net-at-gmail-dawt-com</li>
+                <li>Yes, I know the look needs to freshen up a bit.. I wanted to bring the functionality back first.. I also have to bring <a href="http://www.bostonsubway.info">bostonsubway.info</a> back as well....</li>
+                <li>I do this on my own and in my spare time. It's fun and it's challenging. And no, it doesn't take me away from my girlfriend.</li>
+                <li>The database is entirely done <b><i>by hand</i></b>. That's right, folks, I looked at a subway map, measure out the distances and determined a heuristic for differentiating between local and express. The geocodes may be off a bit for the stations; if they are, please shoot me an email and let me know!</li>
+            </ul>
+            <br/>
+    		<ul>
+    			<li>Fixed problems with station info when clicking on marker.</li>
+    			<li>Changed "Station" search to "Address" search.</li>
+    			<li>Added an address example so people know how to use the box.</li>
+    			<li>Updated instruction list to use icons instead of letters.</li>
+    			<li>Updated instruction list to highlight station names using bold.</li>
+    			<li>Updated to Google Maps API v2</li>
+    			<li>Thought about update to icon.</li>
+    			<li>Made the feedback e-mail links more sane. (Boo to SPAM!)</li>
+    		</ul>
+    	</dd>
+    	<dt class="date">2007 October 29</dt>
+    	<dd>
+    		<ul>
+    			<li>Revitalized the project after letting it go stale.</li>
+    			<li>Brought the new algorithm online.</li>
+    			<li>Fixed some station connection issues.</li>
+    			<li>Fixed some geocoding issues.</li>
+    			<li>Changed the default zoom</li>
+    			<li>Search no longer relies on Geocoder.us</li>
+    			<li>Fixed/Optimized multiple locations found dialog.</li>
+    		</ul>
+    	</dd>
+        <dt class="date">2005 August 8</dt>
+        <dd>Improved address finding.</dd>
+        <dt class="date">2005 August 7</dt>
+        <dd>Increased website performance by creating PHP sessions.</dd>
+        <dt class="date">2005 August 4</dt>
+        <dd>
+            <ul>
+                <li>Markers have been changed.</li>
+                <li>Fixed bug where searching with intersection without state or city returned error.</li>
+                <li>Added functionality where clicking on link on sidepanel brings up zoom window.</li>
+            </ul>
+        </dd>
+        <dt class="date">2005 August 2</dt>
+        <dd>Only relevant stops are now shown. Same with direction information.</dd>
+        <dt class="date">2005 August 1</dt>
+        <dd>Debut for bustonsubway.info! A few kinks that need to be worked out, but for the most part, it works as planned.</dd>
+        <dt class="date">2005 July 26</dt>
+        <dd>Display works; however, showing all stations is slow.</dd>
+        <dt class="date">2005 July 23</dt>
+        <dd>Idea conceived to superimpose the Boston Subway system onto a map. Also include a direction finder. Development begins.</dd>
+    </dl>
+    </div>
+    <div id="issues">
+    </div>
+    <div id="todo">
+    To Do:
+    <ul>
+        <li>Allow user to select size of map.</li>
+        <li>Maintain user selected map type.</li>
+        <li>Add "reverse directions" link to results.</li>
+        <li>Change markers.</li>
+    </ul>
+    </div>
+    </div>
+</body>
+</html>

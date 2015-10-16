@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 05.12
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_photography_japan</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user interface, user experience" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="japan.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>Japan \ </p>
+	<p>Sakura Season <span id="date">/ April.12</span> </p>
+
+	<div class="description">
+		<p>_The transience of the blossoms, the extreme beauty and quick death, has often been associated with mortality; for this reason, cherry blossoms are richly symbolic. Hanami, or flower viewing, is the centuries-old practice of picnicking under a blooming sakura or ume tree.
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/japan/kyoto.jpg" alt="temple gate in Kyoto" width="410" height="274"/> 
+		<img src="images/japan/bird.jpg" alt="bird resting on a sakura branch" width="410" height="274"/>
+		<img src="images/japan/tokyotower.jpg" alt="Tokyo Tower at night" width="194" height="290"/> 
+		<img src="images/japan/pagoda.jpg" alt="two pagodas in Kyoto" width="194" height="290"/> 
+		<img src="images/japan/fishmarket.jpg" alt="store keeper at Tsukiji market" width="434" height="290"/> 
+		<img src="images/japan/sakura.jpg" alt="close up of a sakura flower street" width="410" height="274"/> 
+		<img src="images/japan/moss.jpg" alt="close up of green moss" width="410" height="274"/> 
+	</div>
+	
+</div>
+
+<div id="bottom">
+	<p>_Photography</p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

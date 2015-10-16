@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 10.11
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_photography_belize</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user interface, user experience" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="belize.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>Belize \ </p>
+	<p>Belize City <span id="date">/ July.14</span> </p>
+
+	<div class="description">
+		<p>_The only country in Central America whose official language is English, though Belizean Creole and Spanish are also commonly spoken. Belize is bordered on the north by Mexico, to the south and west by Guatemala, and to the east by the Caribbean Sea. A population of 340,844, Belize has the lowest population density in Central America.<br />
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/belize/Altun Ha Ruinas Mayas De Belize.jpg" alt="Temple of the Son God in Belize" width="890" height="501"/> 
+		<img src="images/belize/CayeCaulker.jpg" alt="Caye Caulker" width="296" height="296"/>
+		<img src="images/belize/RedBarrel.jpg" alt="Ice on Iceburg Lake" width="296" height="296"/> 
+		<img src="images/belize/BikeRider.jpg" alt="Big horn sheep on the trail" width="296" height="296"/> 
+	</div>
+	
+</div>
+
+<div id="bottom">
+	<p>_Photography </p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

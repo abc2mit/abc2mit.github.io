@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config menu="hide">
+	<params>
+		<param name="rss" type="radio" default="1" label="NEWSFEED" description="NEWSFEED_DESC">
+			<option value="0">NO</option>
+			<option value="1">YES</option>
+		</param>
+		<param name="debug" type="radio" default="0" label="PARAM_DEBUG" description="PARAM_DEBUG_DESC">
+			<option value="0">NO</option>
+			<option value="1">YES</option>
+		</param>
+		<param name="bcss" type="hidden" default="" />
+		<param name="rcss" type="hidden" default="" />
+	</params>
+	<params group="related">
+		<param name="def_rel" type="list" default="0" label="DEF_REL" description="DEF_REL_DESC">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+		<param name="rel_fp" type="list" default="0" label="REL_FP" description="REL_FP_DESC">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+		<param name="rel_lsec" type="list" default="1" label="REL_LSEC" description="REL_LSEC_DESC">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+		<param name="rel_x1" type="section" default="" label="REL_EX" description="REL_EX_DESC" />
+		<param name="rel_x2" type="section" default="" label="REL_EX" description="REL_EX_DESC" />
+		<param name="rel_x3" type="section" default="" label="REL_EX" description="REL_EX_DESC" />
+		<param name="rel_limit" type="text" default="5" label="REL_AMOUNT" description="REL_AMOUNT_DESC"/>
+		<param name="rel_title" type="text" default="Related Articles" label="REL_TEXT" description="REL_TEXT_DESC"/>
+		<param name="rel_def_css" type="list" default="1" label="DEF_CSS" description="DEF_CSS_DESC">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+ 		<param name="key_source" type="list" default="article" label="REL_KEYS" description="REL_KEYS_DESC">
+			<option value="metakey">METAKEY</option>
+			<option value="article">ATEXT</option>
+		</param>
+ 		<param name="rel_sort" type="list" default="random" label="REL_SORT" description="REL_SORT_DESC">
+			<option value="title">TITLE</option>
+			<option value="date_desc">RECENT</option>
+			<option value="date_asc">OLDEST</option>
+			<option value="modified">MODIFIED</option>
+			<option value="popular">POPULAR</option>
+			<option value="random">RANDOM</option>
+		</param>
+ 		<param name="rel_extm" type="list" default="0" label="REL_EXTM" description="REL_EXTM_DESC">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+	</params>
+	<params group="bookmarks">
+		<param name="def_bm" type="list" default="0" label="DEF_BM" description="DEF_BM_DESC">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+		<param name="bm_top" type="list" default="0" label="BM_POS" description="BM_POS_DESC">
+			<option value="1">BM_TOP</option>
+			<option value="0">BM_BOTTOM</option>
+		</param>
+		<param name="bm_fp" type="list" default="0" label="BM_FP" description="BM_FP_DESC">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+		<param name="bm_select" type="list" default="0" label="BM_SELECT" description="BM_SELECT_DESC">
+			<option value="0">Popular</option>
+			<option value="1">All</option>
+		</param>
+		<param name="bm_size" type="list" default="small" label="BM_SIZE" description="BM_SIZE_DESC">
+			<option value="text">SIZE_TEXT</option>
+			<option value="small">SIZE_SMALL</option>
+			<option value="large">SIZE_LARGE</option>
+			<option value="button">SIZE_BTN</option>
+			<option value="custom">SIZE_CSTM</option>
+		</param>
+		<param name="bm_sep" type="text" default="" label="BM_SEP" description="BM_SEP_DESC"/>
+		<param name="bm_tips" type="list" default="1" label="BM_TIPS" description="BM_TIPS_DESC">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+		<param name="bm_def_css" type="list" default="1" label="DEF_CSS" description="DEF_CSS_DESC">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+	</params>
+	<params group="advanced">
+		<param name="link_file" type="list" default="1" label="LINK_FILES" description="LINK_DESC">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+		<param name="simple_list" type="radio" default="0" label="PARAM_SIMPLE" description="PARAM_SIMPLE_DESC">
+			<option value="0">NO</option>
+			<option value="1">YES</option>
+		</param>
+		<param name="frontend_upload" type="radio" default="0" label="PARAM_FUPLOAD" description="PARAM_FUPLOAD_DESC">
+			<option value="0">NO</option>
+			<option value="1">YES</option>
+		</param>
+		<param name="paths" type="text" size="90" default="images" label="PARAM_FOLDERS" description="PARAM_FOLDERS_DESC" />
+		<param name="link_article" type="list" default="1" label="LINK_ARTICLES" description="LINK_DESC">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+		<param name="use_slug" type="list" default="1" label="SLUG" description="SLUG_DESC">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+		<param name="itemid" type="list" default="0" label="DEF_ITEMID" description="DEF_ITEMID_DESC">
+			<option value="0">NONE</option>
+			<option value="1">LATEST ITEMS</option>
+		</param>
+		<param name="link_menu" type="list" default="1" label="LINK_MENUS" description="LINK_DESC">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+		<param name="link_contact" type="list" default="1" label="LINK_CONTACTS" description="LINK_DESC">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+		<param name="compress" type="list" default="1" label="COMPRESS_JS">
+			<option value="1">Yes</option>
+			<option value="0">No</option>
+		</param>
+	</params>
+</config>

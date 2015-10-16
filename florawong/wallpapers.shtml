@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 01.10
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_wallpapers</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user interface, user experience" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="wallpapers.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>Wallpapers \ </p>
+	<p>Cisco Systems </p>
+
+	<div class="description">
+		<p>_A photographic wallpaper series designed for the desktop, tablet & smartphone / Aug.12 </p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/wallpapers/wallpaper_003B.jpg" alt="Cisco Cityscape Wallpaper" width="445" height="250"/> 
+		<img src="images/wallpapers/wallpaper_009.jpg" alt="Cisco Transit Wallpaper" width="445" height="250"/> 
+		<img src="images/wallpapers/wallpaper_015.jpg" alt="Cisco Landscape Wallpaper" width="445" height="250"/> 
+		<img src="images/wallpapers/wallpaper_016.jpg" alt="Cisco Beach Wallpaper" width="445" height="250"/> 
+	</div>
+	
+	<div class="description">
+		<p class="clear">_Conceptual wallpaper designs using Cisco graphic elements / Aug.12 </p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/wallpapers/wallpaper_004.jpg" alt="Cisco Connectivity Map" width="445" height="250"/> 
+		<img src="images/wallpapers/wallpaper_018.jpg" alt="Cisco Graphic Map" width="445" height="250"/> 
+		<img src="images/wallpapers/wallpaper_019.jpg" alt="Cisco Global Wallpaper" width="445" height="250"/> 
+	</div>
+	
+	<p class="space">Compaq  </p>
+
+	<div class="description">
+		<p>_Concept wallpaper design for Compaq computers / April.09 </p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/wallpapers/1024x768_compaq.jpg" alt="asian floral compaq wallpaper" width="445" height="334"/> 
+	</div>
+	
+	<p class="space">Hewlett Packard  </p>
+
+	<div class="description">
+		<p>_Wallpaper designs for HP computers / April.09 </p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/wallpapers/1024x768_aqua.jpg" alt="HP aqua wallpaper" width="445" height="334"/> 
+		<img src="images/wallpapers/1024x768_organic.jpg" alt="HP organic wallpaper" width="445" height="334"/> 
+	</div>
+	
+	<div class="description">
+		<p class="clear">_Concept wallpaper design in PSG style for HP computers / April.09 </p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/wallpapers/1024x768_psg.jpg" alt="HP PSG wallpaper" width="445" height="334"/> 
+	</div>
+	
+	<p id="personal">Downloads \ </p>
+
+	<div class="description">
+		<p>_Wallpapers designed for our enjoyment / April.09</p>
+	</div>
+	
+	<table id="table" border="0" summary="structure for wallpaper grid">
+		<tr>
+			<td width="50%" valign="top">
+				<img src="images/wallpapers/1024x768_fuchsia.jpg" alt="fuchsia night wallpaper" width="445" height="334"/> 
+			</td>
+			<td width="50%" valign="top">
+				<img src="images/wallpapers/1024x768_sunset.jpg" alt="sunset night wallpaper" width="445" height="334"/>
+			</td>
+		</tr>
+		<tr>
+			<td width="50%" valign="top">
+				<p id="photo"> <a href="images/wallpapers/1024x768_fuchsia.jpg" target="_blank"> 1024x768</a> | <a href="images/wallpapers/1920x1200_fuchsia.jpg" target="_blank">1920x1200</a> </p>
+			</td>
+			<td width="50%" valign="top">
+				<p id="photo"> <a href="images/wallpapers/1024x768_sunset.jpg" target="_blank"> 1024x768 </a> </p>
+			</td>
+		</tr>
+		
+		<tr>
+			<td width="50%" valign="top">
+				<img src="images/wallpapers/1024x768_teal.jpg" alt="teal night wallpaper" width="445" height="334"/>
+			</td>
+			<td width="50%" valign="top">
+				<img src="images/wallpapers/1024x768_night.jpg" alt="night wallpaper" width="445" height="334"/>
+			</td>
+		</tr>
+		<tr>
+			<td width="50%" valign="top">
+				<p id="photo"> <a href="images/wallpapers/1024x768_teal.jpg" target="_blank"> 1024x768 </a> </p>
+			</td>
+			<td width="50%" valign="top">
+				<p id="photo"> <a href="images/wallpapers/1024x768_night.jpg" target="_blank"> 1024x768 </a> </p>
+			</td>
+		</tr>
+	</table>
+	
+</div>
+
+<div id="bottom">
+	<p>_Media Design </p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

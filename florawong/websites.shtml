@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 01.10
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_websites </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user interface, user experience" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="websites.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>Websites \ </p>
+	<p>Cisco Systems </p>
+	
+	<div class="description">
+		<p>_Creation of the first responsive website for Cisco Investments. To help market the team and the active portfolios which Cisco has invested in to prospective companies ready to partner. Constructed the UI/UX from the ground up and used brand visuals to lead the site / May.14 <br />
+		<br />
+		<i>Site</i>_<a href="http://www.ciscoinvestments.com/" target="blank"> http://www.ciscoinvestments.com/ </a> <br />
+	</div>
+	
+	<div class="samples">
+		<img src="images/websites/cisco_investments_B_home.jpg" alt="Homepage of Cisco Investments" width="445" height="695"/>
+		<img src="images/websites/cisco_investments_B_portfolio.jpg" alt="Active Portfolios in Cisco Investments" width="445" height="695"/>
+		<img src="images/websites/cisco_investments_B_news.jpg" alt="News & Events in Cisco Investments" width="445" height="695"/>
+		<img src="images/websites/Cisco_Investments_Homepage_Mobile.jpg" alt="Mobile version of Cisco Investments Homepage" width="138" height="695"/>
+		<img src="images/websites/Cisco_Investments_Portfolio_Mobile.jpg" alt="Mobile version of Active Portfolios in Cisco Investments" width="138" height="695"/>
+		<img src="images/websites/CI_Investments_RevisedFiltering_v2.jpg" alt="Filter Modal wireframe" width="727" height="343"/>
+	</div>
+	
+	<p id="personal"> Charles Schwab </p>
+	
+	<div class="description">
+		<p>_Complete face lift of Schwab International US site. Re-organization of information architecture to complete re-design of UI/UX while staying true to the Schwab brand. Lastly, a strategic implementation of an interactive homepage experience to discover the five values of investing in the U.S. / Nov.13 <br />
+		<br />
+		<i>Site</i>_<a href="http://www.schwab-global.com/" target="blank"> http://www.schwab-global.com/ </a> <br />
+	</div>
+	
+	<div class="samples">
+		<img src="images/websites/schwab_Int_001.jpg" alt="Homepage of Schwab International" width="445" height="432"/>
+		<img src="images/websites/schwab_Int_002.jpg" alt="Why Schwab of Five Values on Schwab International Homepage" width="445" height="432"/>
+		<img src="images/websites/schwab_Int_003.jpg" alt="Access Market Data of Five Values on Schwab International Hompage" width="445" height="432"/>
+		<img src="images/websites/schwab_Int_004.jpg" alt="Primary Page of Schwab International" width="445" height="432"/>
+		<img src="images/websites/schwab_Int_005.jpg" alt="Secondary Page of Schwab International" width="445" height="432"/>
+		<img src="images/websites/schwab_Int_006.jpg" alt="Tertiary Page of Schwab International" width="445" height="432"/>
+	</div>
+	
+		<div class="description">
+		<p class="clear">_Completely new creative direction of the Schwab Charitable website. An intuitive visual storytelling through the navigation, restructuring of IA, married with clean UI/UX and paired with motion paralax / Oct.13 <br />
+		<br />
+		<i>Site</i>_<a href="http://www.schwabcharitable.org/" target="blank"> http://www.schwabcharitable.org </a> <br />
+	</div>
+	
+	<div class="samples">
+		<img src="images/websites/charitable_001.jpg" alt="Homepage of Schwab Charitable" width="445" height="731"/>
+		<img src="images/websites/CS_Charitable_Template_003.jpg" alt="Module Style Guide" width="334" height="731"/>
+		<img src="images/websites/charitable_002.jpg" alt="For Professionals within Resources of Schwab Charitable" width="445" height="467"/>
+		<img src="images/websites/charitable_003.jpg" alt="Contribute within Donor Advised Funds of Schwab Charitable" width="445" height="473"/>
+	</div>
+	
+	<div class="description">
+		<p class="clear">_Re-design of the entire About Schwab site. Using existing informational architecture to create new user interface that marries with new brand standards. And creation of a new financial blog from the ground up / March.13 <br />
+		<br />
+		<i>Site</i>_<a href="http://www.aboutschwab.com" target="blank"> www.aboutschwab.com </a> <br />
+		<i>Award</i>_2012 Award of Distinction, The Communicator Awards <br />
+		<i>Award</i>_Corporate Communications Website, 2012 Silver W3 Awards</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/websites/about_schwab13_01.jpg" alt="Homepage of About Schwab" width="445" height="432"/>
+		<img src="images/websites/about_schwab13_02.jpg" alt="Press Room Landing Page within About Schwab" width="445" height="432"/>
+		<img src="images/websites/about_schwab13_03.jpg" alt="Schwab Stories Landing Page within About Schwab" width="445" height="432"/>
+		<img src="images/websites/about_schwab13_04.jpg" alt="Schwab Talk Blog Landing Page within About Schwab" width="445" height="432"/>
+	</div>
+	
+	<p id="personal"> Hewlett Packard </p>
+
+	<div class="description">
+		<p>_Two conceptual landing page designs for HP + Teen Vogue Spring Haute Spot in New York. Landing page will navigate customers to HP feature products, virtual dressing room &amp; photo booth. Concept is to evoke the city glam of Teen Vogue melded with HP&rsquo;s Touch the Future Now campaign / March.09 </p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/websites/teenvogue_01.jpg" alt="Pink concept for HP + Teen Voge landing page" width="445" height="334"/> 
+		<img src="images/websites/teenvogue_02.jpg" alt="Pink concept for HP + Teen Voge landing page" width="445" height="334"/> 
+	</div>
+	
+	<p id="personal">Loring Ward </p>
+	
+	<div class="description">
+		<p>_Conceptual rebrand and website redesign for Loring Ward. Creating visual pleasing and effective UI/UX solution, while being informed by the new information architecture / April.14 </p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/websites/loringward_home_fw.jpg" alt="Loring Ward Conceptual Homepage" width="445" height="672"/>
+		<img src="images/websites/loringward_investmanag_fw.jpg" alt="Investment Management in Loring Ward" width="445" height="672"/>
+		<img src="images/websites/loringward_devices_home_fw.jpg" alt="Mobile Version of Loring Ward Homepage" width="138" height="613"/>
+		<img src="images/websites/loringward_devices_investmanag_fw.jpg" alt="Mobile version of Investment Managment" width="138" height="751"/>
+		<img src="images/websites/loringward_template_fw.jpg" alt="Designs displayed on screen" width="614" height="395"/>
+	</div>
+	
+	<p id="personal">NatureWise  </p>
+
+	<div class="description">
+		<p>_Conceptual rebrand and website redesign for NatureWise. To help market a growing company in effectively communicating their mission and brand values through a clean & quirky design / Nov.13
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/websites/NatureWise_website_002A.jpg" alt="Conceptual Homepage for NatureWise" width="445" height="323"/> 
+		<img src="images/websites/NatureWise_website_002B.jpg" alt="Product Description on NatureWise" width="445" height="323"/>
+		<img src="images/websites/NatureWise_website_002C.jpg" alt="About NatureWise" width="445" height="323"/> 
+		<img src="images/websites/NatureWise_website_002D.jpg" alt="Contact and Share NatureWise" width="445" height="323"/>
+	</div>
+	
+	<p id="personal">Top Nosh </p>
+
+	<div class="description">
+		<p>_New website & UI architecture to promote Top Nosh's brand, goods & services / May.12 <br />
+		<br />
+		<i>Tagline</i>_Savory Handcrafted Pies </p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/websites/TN_Homepage_Final.jpg" alt="Top Nosh New Homepage" width="570" height="420"/>
+	</div>
+	
+</div>
+
+<div id="bottom">
+	<p>_Media Design</p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

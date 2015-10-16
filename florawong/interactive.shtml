@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 01.10
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_interactive </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user interface, user experience" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="websites.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>Interactive \ </p>
+	<p>Charles Schwab </p>
+
+	<div class="description">
+		<p>_Conceptual interactive media with attract loop in engagement areas, waiting areas, vertical totems & web terminals placed within Charles Schwab's two new flagship branch in NYC (engagement & waiting area interaction shown) / July.11 <br />
+		<br />
+		<i>Medium</i>_42" touch screen engagement area, Ipad installed waiting area, touch screen vertical totems & computer web terminals.
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/interactive/SchwabNYC_EngageArea_Attract1.jpg" alt="Attract Loop Frame 1 for Schwab's interactive engagement area" width="445" height="250"/>
+		<img src="images/interactive/SchwabNYC_EngageArea_Attract2.jpg" alt="Attract Loop Frame 2 for Schwab's interactive engagement area" width="445" height="250"/>
+		<img src="images/interactive/SchwabNYC_EngageArea_Attract3.jpg" alt="Attract Loop Frame 3 for Schwab's interactive engagement area" width="445" height="250"/>
+		<img src="images/interactive/SchwabNYC_EngageArea_Attract4.jpg" alt="Attract Loop Frame 4 for Schwab's interactive engagement area" width="445" height="250"/>
+		<img src="images/interactive/SchwabNYC_EngageArea_Workshops.jpg" alt="Workshop screen for Schwab's interactive engagement area" width="445" height="250"/>
+		<img src="images/interactive/SchwabNYC_EngageArea_Video1.jpg" alt="Video selection for Schwab's interactive engagement area" width="445" height="250"/>
+		<img src="images/interactive/SchwabNYC_EngageArea_QuizQ.jpg" alt="Quiz Question display for Schwab's interactive engagement area" width="445" height="250"/>
+		<img src="images/interactive/SchwabNYC_EngageArea_QuizA.jpg" alt="Quiz Answer display for Schwab's interactive engagement area" width="445" height="250"/>
+		<img src="images/interactive/SchwabNYC_IPAD1.jpg" alt="Ipad lock screen for Schwab's interactive waiting area" width="445" height="514"/>
+		<img src="images/interactive/SchwabNYC_IPAD2.jpg" alt="Ipad display screen for Schwab's interactive waiting area" width="445" height="514"/>
+	</div>
+	
+	<p id="personal"> Santana Row </p>
+
+	<div class="description">
+		<p>_Conceptual interactive one touch user experience for a kiosk in Santana Row. Interface includes a map & directory with twitter feed from The Row and promotional ads & events / March.12 <br />
+		<br />
+		<i>Medium</i>_46" touch screen kiosk
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/interactive/kiosk_design01.jpg" alt="Interactive Map for Santana Row Kiosk" width="890" height="501"/>
+		<img src="images/interactive/kiosk_design02.jpg" alt="Directional Map for Santana Row Kiosk" width="890" height="501"/>
+	</div>	
+	
+</div>
+
+<div id="bottom">
+	<p>_Media Design </p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

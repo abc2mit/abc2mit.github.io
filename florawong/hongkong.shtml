@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 01.10
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_photography_hong kong</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user interface, user experience" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="hongkong.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>Hong Kong \ </p>
+	<p>Freedom Walk <span id="date">/ Sept.10</span> </p>
+
+	<div class="description">
+		<p>_Hong Kong is one of two special administrative regions of the People's Republic of China. It is renowned for its expansive skyline and deep natural harbour. Hong Kong is one of the most densely populated areas in the world.
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/hongkong/retro.jpg" alt="60's radio on wall" width="410" height="274"/> 
+		<img src="images/hongkong/birdcage.jpg" alt="shop keeper of bird shop" width="410" height="274"/>
+		<img src="images/hongkong/jccac.jpg" alt="Jockey Club Creative Arts Centre" width="410" height="274"/> 
+		<img src="images/hongkong/studio.jpg" alt="art studio at JCCAC" width="410" height="274"/>
+		<img src="images/hongkong/goldfish.jpg" alt="goldfish shop in goldfish street" width="410" height="274"/> 
+		<img src="images/hongkong/number.jpg" alt="graffiti on the streets of hong kong" width="410" height="274"/> 
+	</div>
+	
+</div>
+
+<div id="bottom">
+	<p>_Photography</p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

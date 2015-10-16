@@ -1,0 +1,44 @@
+RIM-COD-SHA1-4: 8e e4 4f be 32 3e ae 5f 5c f3 c4 b7 ce 13 72 77 e1 4d b6 44
+RIM-COD-SHA1-3: 09 d1 2e ee 79 a7 c7 4e 37 83 ae e3 03 69 35 54 3b 89 71 58
+RIM-COD-SHA1-2: 11 3d a4 6e c7 8f 85 8a 5b 0a c0 e8 b6 d0 ed ff cc 76 66 2f
+RIM-COD-SHA1-1: ac 6a ab b5 c3 6c 6e b1 b3 da 2d 82 ab bf 4b e0 9f ba e2 69
+RIM-MIDlet-Flags-1: 195
+MIDlet-Jar-Size: 0
+MIDlet-Name: com_plazmic_theme_bPhone_Icon
+MIDlet-Jar-URL: com_plazmic_theme_bPhone_Icon.jar
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Description: A user defined 8300 theme for version 4.2.2
+RIM-COD-URL-8: com_plazmic_theme_bPhone_Icon-8.cod
+RIM-MIDlet-Position-1: 0
+RIM-COD-URL-7: com_plazmic_theme_bPhone_Icon-7.cod
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-URL-6: com_plazmic_theme_bPhone_Icon-6.cod
+RIM-COD-URL-5: com_plazmic_theme_bPhone_Icon-5.cod
+RIM-COD-URL-4: com_plazmic_theme_bPhone_Icon-4.cod
+RIM-COD-URL-3: com_plazmic_theme_bPhone_Icon-3.cod
+RIM-COD-URL-2: com_plazmic_theme_bPhone_Icon-2.cod
+RIM-COD-URL-1: com_plazmic_theme_bPhone_Icon-1.cod
+RIM-COD-Size-8: 20108
+RIM-COD-Size-7: 50472
+RIM-COD-Size-6: 56176
+RIM-COD-Size-5: 34940
+RIM-COD-Size-4: 26952
+RIM-COD-Size-3: 33724
+RIM-COD-Module-Name: com_plazmic_theme_bPhone_Icon
+RIM-COD-Size-2: 56664
+RIM-COD-Size-1: 57960
+RIM-COD-SHA1: 2d 5f 75 fa e9 13 97 42 b7 41 c6 c5 df f5 1f 9a e4 55 13 ad
+RIM-COD-Size: 55828
+MicroEdition-Profile: MIDP-1.0
+MIDlet-Vendor: Research In Motion
+MIDlet-1: ,,
+RIM-COD-URL: com_plazmic_theme_bPhone_Icon.cod
+RIM-MIDlet-NameResourceId-1: 0
+Manifest-Version: 1.0
+MIDlet-Version: 2007.09.18.2203
+RIM-COD-SHA1-8: 59 20 a4 04 74 bc 16 ff a3 1d 1a a8 d4 52 14 25 87 9b 61 86
+RIM-COD-SHA1-7: e1 6e a4 1a c8 3f 36 3e f6 5f 9f 00 d6 20 3d 20 3f 9b 1e fc
+RIM-MIDlet-NameResourceBundle-1: 
+RIM-COD-SHA1-6: dd e7 36 10 e9 c1 35 c8 5c 07 ad e0 a0 a6 ac fa 74 fa 18 5d
+RIM-COD-Creation-Time: 1190167438
+RIM-COD-SHA1-5: 78 93 ca 99 ae a9 7f c2 90 57 f9 63 42 53 01 07 9d 39 ae eb

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /subwayoop
+Disallow: /subwaydb
+Disallow: /btest
+Disallow: /test
+Disallow: /css

@@ -1,0 +1,307 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial;
+    margin-top: 5px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 0px;
+}
+table {
+    border-collapse: collapse;
+}
+td {
+    padding: 0;
+    text-decoration: none;
+}
+td.stationLines {
+    padding: 3px 3px 0 3px;
+}
+td.stationName {
+    padding: 0 2px 0 2px;
+}
+
+td.cityName {
+	padding: 0 2px 0 2px;
+}
+td.cityLink {
+    padding: 0 3px 0 3px;
+}
+
+#maptable {
+	border-top: 5px solid #576625;
+	width: 100%;
+}
+
+#info {
+	text-align: left;
+	padding-top: 5px;
+}
+
+#testfloat {
+	position: absolute;
+	z-index: 100;
+	top: 5px;
+	right: 5px;
+}
+
+#slogan {
+    font-size: 10px;
+    text-align: right;
+    width: 175px;
+    float: right;
+    /*border: 3px solid;*/
+    margin-top: -5px;
+    margin-bottom: 1px;
+}
+#header_logo {
+    padding-right: 10px;
+    width: 175px;
+}
+div.logo {
+    text-align: right;
+    margin: 0;
+}
+.instruction {
+    padding: 1px 5px 1px 5px;
+}
+img {
+    border: 0;
+}
+
+a {
+    color: #0000cc;
+    text-decoration: none;
+}
+#logo {
+    width: 260px;
+    height: 55px;
+    border: 0px none transparent;
+}
+#header {
+    position: relative;
+    z-index: 1000;
+    background-color: white;
+}
+#header td {
+    background-color: white;
+}
+#header .logo {
+    /*margin-right: 10px;*/
+}
+#header .form .menu {
+    padding-bottom: 4px;
+    padding-left: 2px;
+    font-size: small;
+}
+#header .boxlabel {
+    font-size: 70%;
+    padding-top: 1px;
+    padding-left: 1px;
+}
+a.selected {
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+#headertitle {
+    position: relative;
+    z-index: 1000;
+    /*border-top: 1px solid #ff9900;*/
+    border-top: 1px solid #576625;
+    /*background-color: #ffeac0;*/
+    background-color: #a5b254;
+    color:#576625;
+    margin-top: 5px;
+    margin-bottom: 7px;
+    width: 100%;
+}
+#headertitle td.title {
+    font-size: large;
+    font-weight: bold;
+    padding-left: 3px;
+    white-space: nowrap;
+}
+#toggle {
+    font-size: small;
+    text-align: right;
+    padding-right: 3px;
+    white-space: nowrap;
+}
+#page {
+    position: relative;
+    z-index: 0;
+      width: 100%;
+    height: 100%;
+}
+#map {
+    position: relative;
+    z-index: 0;
+    border: 1px solid #979797;
+    /*margin-right: 16.85em;*/
+    margin-left: 20px;
+    height: 100%;
+}
+form {
+    margin: 0;
+}
+.help {
+    font-size: x-small;
+    vertical-align: top;
+    white-space: nowrap;
+    padding-left: 7px;
+}
+#directions_form td.reverse {
+    padding-left: 2px;
+    padding-right: 2px;
+    vertical-align: middle;
+}
+td.submit {
+    vertical-align: top;
+    white-space: nowrap;
+}
+.example {
+    color: gray;
+}
+div.dirlegal {
+    margin-bottom: 2em;
+    font-size: 70%;
+    color: #666666;
+}
+div.reverse {
+    margin-top: 0.75em;
+    margin-bottom: 5px;
+    font-size: small;
+}
+#links {
+    font-size: small;
+    margin-bottom: 1em;
+}
+#links img {
+    width: 16px;
+    height: 16px;
+    vertical-align: bottom;
+}
+.noselect {
+    -moz-user-select: none;
+}
+v\:* {
+    behavior:url(#default#VML);
+}
+#printheader {
+    display: none;
+}
+.mapselectedlocation {
+    background-color: #eeeeee;
+}
+
+table .info_table {
+    border: solid 1px #576625;
+}
+
+td .header_cell {
+    /*border: solid 1px #000000;*/
+    background-color: #576625;
+    color: #FFFFFF;
+    padding: 2px 5px 2px 5px;
+}
+
+tr .stationRow {
+    padding: 2px 0 2px 0;
+}
+
+tr .stationRowHighlight {
+    background-color: #a5b254;
+    padding: 2px 0 2px 0;
+}
+
+td .choice {
+	padding: 0 2px 0 2px;
+}
+
+@media screen {
+    .noscreen {
+        display: none;
+    }
+    #transparent, #vp, #nxsl {
+        position: absolute;
+        top: -10px;
+        left: -10px;
+        width: 5px;
+        height: 5px;
+        visibility: hidden;
+    }
+}
+@media print {
+    .noprint {
+        display: none;
+    }
+    body {
+        margin: 0;
+        color: black;
+    }
+    a {
+        text-decoration: none;
+        color: black;
+     }
+    #screenheader, #bug, #links, #metapanel, #headertitle,table.form, #vp, #transparent, #nxsl {
+        display: none;
+    }
+    #header {
+        margin-bottom: 7mm;
+    }
+    #printheader {
+        display: block;
+        width: 100%;
+        color: silver;
+        text-align: left;
+    }
+    #printheader .title {
+        font-size: 12pt;
+        font-weight: bold;
+    }
+    #printheader .subtitle .label {
+        font-size: 8pt;
+        font-variant: italic;
+    }
+    #printheader .subtitle .value {
+        font-size: 10pt;
+        font-weight: bold;
+    }
+    #printmessage {
+        display: block;
+        position: absolute;
+        z-index: 100000;
+        top: 0mm;
+        right: 0mm;
+        width: 7cm;
+        padding: 1.5mm 2mm;
+        color: black;
+        background-color: silver;
+        border: 1px solid black;
+        text-align: center;
+        font-size: 6pt;
+        font-family: sans-serif;
+    }
+    #page {
+        position: static;
+        width: auto;
+        height: auto;
+    }
+    #map {
+        position: relative;
+        margin-left: 0;
+        margin-right: auto;
+        overflow: hidden;
+    }
+    .printimage {
+        width: 95%;
+        margin-left: 5%;
+        border: 1px solid silver;
+    }
+    table.info {
+        text-align: left;
+        font-size: 10px;
+        font-family: Verdana, Helvetica, Arial, sans-serif;   
+    }
+}

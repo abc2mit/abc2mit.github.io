@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 01.10
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_photography_china</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user interface, user experience" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="china.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>China \ </p>
+	<p>Macau <span id="date">/ Sept.14</span> </p>
+
+	<div class="description">
+		<p>_One of two special administrative regions of the People's Republic of China, the other being Hong Kong. A former Portuguese colony, Macau was administered by Portugal from the mid-16th century until late 1999, when it was the last remaining European colony in Asia. Macau is one of the world's richest cities, with the highest GDP per capita by purchasing power parity as of 2013.
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/macau/Mailbox.JPG" alt="Mailbox in Macau" width="410" height="274"/> 
+		<img src="images/macau/Making.JPG" alt="shop keeper making treats" width="410" height="274"/>
+		<img src="images/macau/Venetian.JPG" alt="Gold Statue in the Venetian" width="410" height="274"/> 
+		<img src="images/macau/Gate.JPG" alt="gate with portuguese tiles" width="410" height="274"/>
+	</div>
+	
+	<p class="clear">Hong Kong <span id="date">/ Sept.10</span> </p>
+
+	<div class="description">
+		<p>_One of two special administrative regions of the People's Republic of China. It is renowned for its expansive skyline and deep natural harbour. Hong Kong is one of the most densely populated areas in the world.
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/hong kong/retro.jpg" alt="60's radio on wall" width="410" height="274"/> 
+		<img src="images/hong kong/birdcage.jpg" alt="shop keeper of bird shop" width="410" height="274"/>
+		<img src="images/hong kong/jccac.jpg" alt="Jockey Club Creative Arts Centre" width="410" height="274"/> 
+		<img src="images/hong kong/studio.jpg" alt="art studio at JCCAC" width="410" height="274"/>
+		<img src="images/hong kong/goldfish.jpg" alt="goldfish shop in goldfish street" width="410" height="274"/> 
+		<img src="images/hong kong/number.jpg" alt="graffiti on the streets of hong kong" width="410" height="274"/> 
+	</div>
+	
+	<p class="clear">Shanghai <span id="date">/ Sept.10</span> </p>
+
+	<div class="description">
+		<p>_The most populous city in China. Once a fishing and textiles town, Shanghai grew to importance in the 19th century. A global city, Shanghai exerts influence over global commerce, finance, culture, art, fashion, research and entertainment.<br />
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/shanghai/australiapav.jpg" alt="Australia pavilion at 2010 World Expo" width="410" height="274"/> 
+		<img src="images/shanghai/chinapav.jpg" alt="China pavilion at 2010 World Expo" width="410" height="274"/>
+		<img src="images/shanghai/slippers.jpg" alt="elderly woman making slippers" width="434" height="290"/> 
+		<img src="images/shanghai/boats.jpg" alt="wooden boats in canal" width="194" height="290"/> 
+		<img src="images/shanghai/weave.jpg" alt="woven basket decorations" width="194" height="290"/> 
+	</div>
+	
+	<p class="clear">Beijing <span id="date">/ Dec.09</span> </p>
+
+	<div class="description">
+		<p>_An integral part of China&rsquo;s history for centuries. Beijing is renowned for its opulent palaces, temples, and huge stone walls and gates.<br />
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/beijing/beijing01.jpg" alt="man on the Great Wall" width="194" height="290"/> 
+		<img src="images/beijing/beijing02.jpg" alt="sealed gates in Forbidden City" width="194" height="290"/>
+		<img src="images/beijing/beijing03.jpg" alt="red Beijing" width="434" height="290"/> 
+	</div>
+	
+	<p class="clear">Sichuan <span id="date">/ Dec.09</span> </p>
+
+	<div class="description">
+		<p>_On May 12, 2008 Sichuan was hit by a magnitude of 7.9/8.0 earthquake northwest of the provincial capital of Chengdu.<br />
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/sichuan/sichuan04.jpg" alt="chinese knots" width="194" height="289"/>
+		<img src="images/sichuan/sichuan09.jpg" alt="meat market" width="194" height="289"/>
+		<img src="images/sichuan/sichuan01.jpg" alt="construction worker at work site" width="434" height="290"/> 
+		<img src="images/sichuan/sichuan08.jpg" alt="butcher at the market" width="434" height="290"/> 
+		<img src="images/sichuan/sichuan10.jpg" alt="new life through bridge crack" width="194" height="289"/>
+		<img src="images/sichuan/sichuan03.jpg" alt="stray puppy on the street" width="194" height="289"/>
+
+	</div>
+	
+	<p class="clear">Survey Tour <span id="date">/ Dec.08</span> </p>
+
+	<div class="description">
+		<p>_Beijing is the capital &amp; recognized as the political, educational, and cultural center of the People's Republic of China <br />
+		_Hangzhou is well-known for its beautiful natural scenery, with the West Lake as the most well-known location <br />
+		_Shanghai is the largest center of commerce and finance in mainland China &amp; has reputation as a cosmopolitan center of culture and design <br />
+		_Suzhou is renowned for its beautiful stone bridges, pagodas, and meticulously designed gardens. Since the Song Dynasty (960-1279), Suzhou has also been an important centre for China's silk industry <br />
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/china/terracotta.jpg" alt="display of terracotta soldiers" width="400" height="268"/> 
+		<img src="images/china/ribbons.jpg" alt="wishing ribbons hanging from tree" width="400" height="268"/>
+		<img src="images/china/storekeeper.jpg" alt="picture of store keeper" width="554" height="371"/> 
+		<img src="images/china/birdnest.jpg" alt="pedistrians walking next to the birds nest" width="248" height="371"/>
+		<img src="images/china/tiles.jpg" alt="up close of chinese roof tiles" width="400" height="268"/>
+		<img src="images/china/memories.jpg" alt="streets of beijing" width="400" height="268"/> 
+	</div>
+	
+</div>
+
+<div id="bottom">
+	<p>_Photography </p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

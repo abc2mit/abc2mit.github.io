@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="editors-xtd" method="upgrade">
+	<name>Editor Button - Linkr</name>
+	<version>2.3.7</version>
+	<creationDate>April 2008</creationDate>
+	<author>Frank</author>
+	<authorUrl>http://j.l33p.com/linkr</authorUrl>
+	<license>http://www.gnu.org/licenses/gpl.html (GNU/GPL)</license>
+	<description>Linkr Button</description>
+	<files>
+		<filename plugin="linkr_button">linkr_button.php</filename>
+	</files>
+	<params />
+</install>

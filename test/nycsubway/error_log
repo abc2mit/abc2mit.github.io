@@ -1,0 +1,10 @@
+[13-Feb-2008 00:42:41] PHP Warning:  Invalid argument supplied for foreach() in /home/michaeq6/public_html/test/subwayoop/display_classes.php on line 111
+[14-Feb-2008 00:23:45] PHP Fatal error:  Call to undefined method Div::constructor4() in /home/michaeq6/public_html/test/subwayoop/display_classes.php(27) : eval()'d code on line 1
+[14-Feb-2008 00:25:10] PHP Fatal error:  Call to a member function toString() on a non-object in /home/michaeq6/public_html/test/subwayoop/display_classes.php on line 70
+[14-Feb-2008 00:31:44] PHP Fatal error:  Call to a member function toString() on a non-object in /home/michaeq6/public_html/test/subwayoop/display_classes.php on line 73
+[14-Feb-2008 00:32:33] PHP Fatal error:  Call to undefined function  type() in /home/michaeq6/public_html/test/subwayoop/display_classes.php on line 70
+[14-Feb-2008 00:32:52] PHP Fatal error:  Call to a member function toString() on a non-object in /home/michaeq6/public_html/test/subwayoop/display_classes.php on line 74
+[14-Feb-2008 00:33:52] PHP Fatal error:  Call to a member function toString() on a non-object in /home/michaeq6/public_html/test/subwayoop/display_classes.php on line 75
+[14-Feb-2008 00:35:32] PHP Catchable fatal error:  Object of class Link could not be converted to string in /home/michaeq6/public_html/test/subwayoop/display_classes.php on line 74
+[14-Feb-2008 00:36:19] PHP Fatal error:  Call to a member function toString() on a non-object in /home/michaeq6/public_html/test/subwayoop/display_classes.php on line 75
+[27-Feb-2008 16:45:14] PHP Fatal error:  Call to undefined method Div::addRow() in /home/michaeq6/public_html/test/subwayoop/info.php on line 93

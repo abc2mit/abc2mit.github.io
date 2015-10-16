@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 01.10
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_contact </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user interface, user experience" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="contact.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p> Flora Wong </p>
+	
+	<div class="description">
+		<p><a href="mailto: flow.inhim@gmail.com"> contact@flowbydesign.com </a> 
+		<br />
+		located in Santa Clara, California <br />
+		408.667.7340
+		</p>
+	</div>
+	
+	<p class="inquiry"> Inquiries </p>
+	
+	<table summary="contact info for inquiries" border="0">
+		<form name="inquiries" id="inquiries" method="post" action="mailto: flow.inhim@gmail.com">
+		<tr>
+			<td width="60" valign="top"><label for="name"> Name: </label></td>
+			<td><input name="name" id="name" size="25" /> </td>
+		</tr>
+		<tr>
+			<td width="60" valign="top"><label for="email"> Email: </label></td>
+			<td><input name="email" id="email" size="25" /> </td>
+		</tr>
+		<tr>
+			<td width="60" valign="top"><label for="phone"> Phone: </label></td>
+			<td><input name="phone" id="phone" size="25" /> </td>
+		</tr>
+		<tr>
+			<td width="60" valign="top"><label for="notes"> Notes: </label></td>
+			<td>
+			<textarea rows="6" cols="40" name="notes" id="notes" tabindex="2"></textarea>
+			</td>
+		</tr>
+		<tr>
+         	<td colspan="2" align="right">
+         	<input type="reset" name="reset" id="reset" value="Clear" tabindex="18"/>
+        	<input type="submit" name="submit" id="submit" value="Submit" tabindex="17" />
+         	</td>
+     	</tr>
+		</form>
+	</table>
+	<br />
+	<p class="pdf">>>><a href="Flora_Wong_Resume.pdf"> DOWNLOAD RESUME </a></p> 
+</div>
+
+<div id="bottom">
+	<p>Flora Wong_Art Director &nbsp;<a href="https://twitter.com/ulowtoe"><img src="images/twitter-icon.png" alt="twitter icon" width="15" height="15"/></a> <a href="https://www.behance.net/flowbydesign"><img src="images/behance-icon.png" alt="behanced icon" width="15" height="15"/></a> <a href="https://www.linkedin.com/in/flowbydesign"><img src="images/linkedin-icon.png" alt="linkedin icon" width="15" height="15"/></a> </p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 01.12
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_campaigns </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user interface, user experience" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="campaigns.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>Campaigns \ </p>
+	<p>Charles Schwab </p>
+
+	<div class="description">
+		<p>_Charles Schwab Advisor Services Wirehouse campaign reaches out to advisors to become independant using Schwab as their custodian. Concepts pulls a heart string with what advisors are already thinking for the well-being of their clients / April.13 <br />
+		<br />
+		<i>Tagline</i>_Have you ever heard yourself say... <br />
+		<i>Deliverables</i>_case study book, mailer, email, banners and landing page.<br />
+		<i>Award</i>_Direct Mail Campaign, 2013 Platinum Marcom Award </p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/campaigns/RIA_Book.png" alt="Schwab Advisor Wirehouse Campaign Book" width="890" height="327"/>
+		<img src="images/campaigns/RIA_LP.jpg" alt="Schwab Advisor Wirehouse Campaign Landing Page" width="545" height="413"/>
+		<img src="images/campaigns/RIA_Email.jpg" alt="Schwab Advisor Wirehouse Campaign Email" width="335" height="412"/>
+		<img src="images/campaigns/RIA_Banner.png" alt="Schwab Advisor Wirehouse Campaign Banner" width="545" height="209"/>
+	</div>
+	
+	<p id="personal">Cisco Systems </p>
+
+	<div class="description">
+		<p>_Conceptual re-branding campaign of the Fast Track program. Inspired by the spirit of Parkour to exhibit agility and efficiency, a word mark was created to exemplify these characteristics. In the spirit of the new word mark, design and color treatments are drawn out from the Cisco brand / Jan.12 <br />
+		<br />
+		<i>Deliverables</i>_banners, flyers, emails, ads and web platform. </p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/campaigns/FT_Ad_FW_1.jpg" alt="Conceptual Fast Track Ad 1 of 4" width="445" height="576"/>
+		<img src="images/campaigns/FT_Ad_FW_2.jpg" alt="Conceptual Fast Track Ad 2 of 4" width="445" height="576"/>
+		<img src="images/campaigns/FT_Ad_FW_3.jpg" alt="Conceptual Fast Track Ad 3 of 4" width="445" height="576"/>
+		<img src="images/campaigns/FT_Ad_FW_4.jpg" alt="Conceptual Fast Track Ad 4 of 4" width="445" height="576"/>
+		<img src="images/campaigns/FT_email_FW.jpg" alt="Conceptual Fast Track Email" width="445" height="556"/>
+		<img src="images/campaigns/FT_banner_FW.jpg" alt="Conceptual Fast Track Banner" width="300" height="250"/>
+	</div>
+		
+	<div class="description">
+		<p id="clear">_Cisco Collaboration Campaign for Enterprise Connect 2011 in Orlando, Florida. Series of airport banners, rotunda banners, trade booth graphics, accompanied by multimedia ads to promote the event / Feb.11  <br />
+		<br />
+		<i>Tagline</i>_Shatter the OS Barrier to collaboration </p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/campaigns/Cisco_collaborations.png" alt="Cisco Collaboration banner take over" width="600" height="425"/>
+		<img src="images/campaigns/collaboration_poster.jpg" alt="Cisco Collaboration airport poster" width="290" height="233"/>
+	</div>
+	
+	<p id="personal">Hewlett Packard  </p>
+
+	<div class="description">
+		<p>_Two conceptual back to school campaigns for HP + Teen Vogue Fall Haute Spot in Los Angeles. Freestyle design elements created in tune with girl's innate qualities of unique individual expression / July.09 <br />
+		<br />
+		<i>Tagline</i>_Declare yourself <br />
+		<i>Deliverables</i>_campaign idenitity with possible ad/landing page layouts
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/campaigns/back to school02.jpg" alt="Concept 1 for HP + TeenVogue Haute Spot" width="445" height="334"/>  
+		<img src="images/campaigns/declare yourself02.jpg" alt="Concept 2 for HP + TeenVogue Haute Spot" width="445" height="334"/> 
+	</div>
+	
+</div>
+
+<div id="bottom">
+	<p>_Media Design </p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

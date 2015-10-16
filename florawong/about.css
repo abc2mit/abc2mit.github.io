@@ -1,0 +1,32 @@
+/* about.css */
+
+#content > p {font-size: 16px; float: left; }
+
+.description p {padding-top: 10px; margin-right: 375px; clear: both; }
+
+.intentions_box > p {font-size: 16px;
+				     float: left; 
+				     background-color: #94C7B6;
+				     color: #EDEBE6; 
+				     padding: 4px 20px 4px 8px; }
+
+.intentions {padding-top: 4px; margin: 0px 375px 0px 125px; }
+
+.endeavor_box > p {font-size: 16px;
+				     float: left; 
+				     background-color: #94C7B6;
+				     color: #EDEBE6; 
+				     padding: 4px 20px 4px 8px; }
+				     
+#table {margin: 25px 60px 0px 160px; }
+#table p {clear: both; margin: 0px 0px 10px 0px; }
+#table td {padding-right: 25px; }
+
+.blue {font-size: 16px;
+	   float: left; 
+	   background-color: #94C7B6;
+	   color: #EDEBE6; 
+	   padding: 1px 20px 1px 8px;
+	   margin: 10px 0px 10px 0px; }
+	   
+.dates {font-size: 12px; margin: 0px 0px 8px 0px; }

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.0">
+        <name>Slider Gallery</name> 
+        <author>Yash Vyas</author> 
+        <creationDate>2010-04-09</creationDate> 		  
+        <copyright>All rights reserved by Yash Vyas 2010.</copyright>  
+        <license>GPL 2.0</license> 
+        <authorEmail>contact@yashvyas.in</authorEmail>  
+        <authorUrl>www.yashvyas.in</authorUrl> 
+        <version>1.3.1</version>  
+        <description>
+			Joomla Slider Gallery. WIth scolling on bottom and preview on top.
+			|  Upload your images to gallery folder.
+			|  Folder Path : Modules/mod_slidergallery/gallery 
+			|  Any issue contact me on : contact@yashvyas.in
+		</description> 
+        <files>
+                <filename module="mod_slidergallery">mod_slidergallery.php</filename>
+                <filename>index.html</filename>
+                <filename>helper.php</filename>
+                <filename>tmpl/default.php</filename>
+				<filename>tmpl/filmstrip.php</filename>
+				<filename>tmpl/filmart.php</filename>
+                <filename>tmpl/index.html</filename>
+				<filename>css/image-slideshow.css</filename>
+				<filename>css/shadowbox.css</filename>
+				<filename>css/lightbox.css</filename>
+				<filename>css/index.html</filename>
+				<filename>js/image-slideshow.js</filename>
+				<filename>js/shadowbox.js</filename>
+				<filename>js/builder.js</filename>
+				<filename>js/effects.js</filename>
+				<filename>js/lightbox.js</filename>
+				<filename>js/prototype.js</filename>
+				<filename>js/scriptaculous.js</filename>
+				<filename>js/index.html</filename>
+				<filename>images/arrow_left.gif</filename>
+				<filename>images/arrow_right.gif</filename>
+				<filename>images/arrow_left_over.gif</filename>
+				<filename>images/arrow_right_over.gif</filename>
+				<filename>images/sglogo.png</filename>
+				<filename>images/nextlabel.gif</filename>
+				<filename>images/prevlabel.gif</filename>
+				<filename>images/close.gif</filename>
+				<filename>images/next.png</filename>
+				<filename>images/pause.png</filename>
+				<filename>images/play.png</filename>
+				<filename>images/previous.png</filename>
+				<filename>images/close.png</filename>
+				<filename>images/bullet.gif</filename>
+				<filename>images/loading.gif</filename>
+				<filename>images/loading1.gif</filename>
+				<filename>images/loading2.gif</filename>
+				<filename>images/index.html</filename>
+				<filename>gallery/CONFERENCE TABLE.jpg</filename>
+				<filename>gallery/DESK.jpg</filename>
+				<filename>gallery/FANCY OFFICE CHAIR.jpg</filename>
+				<filename>gallery/GROUP 4.jpg</filename>
+				<filename>gallery/LUXURIOUS OFFICE TABLE.jpg</filename>
+				<filename>gallery/RECEPTION TABLE.jpg</filename>
+				<filename>gallery/TABLE LAMP.jpg</filename>
+				<filename>gallery/WAITING LONGE.jpg</filename>
+				<filename>gallery/index.html</filename>
+				<filename>gallery/captions/CONFERENCE TABLE.txt</filename>
+				<filename>gallery/captions/DESK.txt</filename>
+				<filename>gallery/captions/FANCY OFFICE CHAIR.txt</filename>
+				<filename>gallery/captions/GROUP 4.txt</filename>
+				<filename>gallery/captions/LUXURIOUS OFFICE TABLE.txt</filename>
+				<filename>gallery/captions/RECEPTION TABLE.txt</filename>
+				<filename>gallery/captions/TABLE LAMP.txt</filename>
+				<filename>gallery/captions/WAITING LONGE.txt</filename>
+				<filename>gallery/captions/index.html</filename>				
+        </files>
+ 		
+    <languages>
+       
+    </languages>
+ 
+    <!-- Optional parameters -->
+        <params>
+                <param name="moduleclass_sfx" type="text" default="" label="Module Class Suffix" description="PARAMMODULECLASSSUFFIX" />
+                <param name="@spacer" type="spacer" default="" label="" description="" />
+		<param name="catid" type="category" default="0" label="Category" description="A content category" />
+		<param name="layout" type="list" default="default" label="LAYOUT" description="PARAMLAYOUT">
+			<option value="default">Gallery</option>
+			<option value="filmstrip">Filmstrip</option>			
+			<option value="filmart">Filmart</option>			
+		</param>
+		<param name="@spacer" type="spacer" default="" label="" description="" />
+		<param name="path" type="text" default="modules/mod_slidergallery/gallery" label="IMAGE PATH" description="IMAGEPATH" />
+		<param name="sort" type="list" default="asc" label="SORT IMAGES" description="SHOW CAPTION">			
+			<option value="asc">Ascending</option>			
+			<option value="desc">Descending</option>			
+		</param> 
+		<param name="@spacer" type="spacer" default="" label="" description="" />
+		<param name="height" type="text" default="390" label="HEIGHT (PX)" description="PARAMHEIGHTPX" /> 
+		<param name="width" type="text" default="516" label="WIDTH (PX)" description="PARAMWIDTHPX" /> 
+		<param name="bgcolor" type="text" default="#EFEFEF" label="BACKGROUND COLOR" description="PARAMBGCOLOR" />
+		<param name="@spacer" type="spacer" default="" label="" description="" />
+		<param name="border_thickness" type="text" default="1" label="BORDER THICKNESS (PX)" description="BORDERTHICKNESS" /> 
+		<param name="border_color" type="text" default="#CCCCCC" label="BORDER COLOR (i.e. #CCCCCC)" description="BORDERCOLOR" /> 
+		<param name="show_caption" type="list" default="1" label="SHOW CAPTION" description="SHOW CAPTION">			
+			<option value="1">Yes</option>			
+			<option value="0">No</option>			
+		</param>		
+		<param name="@spacer" type="spacer" default="" label="" description="" />
+		<param name="credits" type="list" default="" label="CREDITS" description="CREDITS">			
+			<option value="1">Yes</option>			
+			<option value="0">No</option>			
+		</param>
+		<param name="credits_color" type="text" default="#CCCCCC" label="CREDIT LINK COLOR (i.e. #CCCCCC)" description="CREDIT LINK COLOR" /> 
+    </params>
+</install>

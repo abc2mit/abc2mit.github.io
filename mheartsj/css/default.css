@@ -1,0 +1,211 @@
+body {
+	text-align: center;
+}
+
+div#browserinfo {
+	color: red;
+}
+
+div#main {
+	text-align: left;
+}
+
+/*
+	picture on the left side
+	landscape picture
+*/
+div#picture1 {
+	position: absolute;
+	left: 0px;
+	top: 407px;
+	z-index: 1;
+	background-color: #2a120e;
+	vertical-align: center;
+	padding: 10px;
+}
+
+img#picture1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 325px;
+}
+
+img.placeholder1 {
+	float: left;
+	padding: 175px 155px 170px 140px;
+}
+
+/*
+	picture on the left side
+	portrait picture
+*/
+div#picture2 {
+	position: absolute;
+	left: 0px;
+	top: 445px;
+	z-index: 1;
+	background-color: #2a120e;
+	vertical-align: center;
+	padding: 10px;
+}
+
+img#picture2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 480px;
+}
+
+img.placeholder2 {
+	float: left;
+	padding: 240px 90px 250px 90px
+}
+
+/*
+	picture on the right side
+	portrait picture
+*/
+div#picture3 {
+	position: absolute;
+	right: 0px;
+	top: 850px;
+	z-index: 1;
+	background-color: #2a120e;
+	vertical-align: center;
+	padding: 10px;
+}
+
+img#picture3 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 480px;
+}
+
+img.placeholder3 {
+	float: right;
+	padding: 275px 0 250px 180px;
+}
+
+img.placeholder4 {
+	float: left;
+	padding: 175px 85px 170px 85px;
+}
+
+/*
+	The bridal party menu
+*/
+div#bridal {
+	position: absolute;
+	right: 90px;
+	top: 190px;
+	background-color: #2a120e;
+	color: #FFFFFF;
+	padding: 10px 10px 10px 10px;
+	float: left;
+}
+
+img.placeholder {
+	float: right;
+	margin-top: 10px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+
+/* @group story */
+
+div#story {
+	/*font-size: 0.97em;*/
+	text-align: justify;
+}
+
+div#story1 {
+	position: absolute;
+	right: 0;
+	top: 275px;
+	z-index: 1;
+	background-color: #2a120e;
+	vertical-align: center;
+	padding: 10px;
+}
+
+img#story1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 325px;
+}
+
+img.story1 {
+	float: right;
+	padding: 170px 170px 170px 165px;
+}
+
+div#story2 {
+	position: absolute;
+	left: 0;
+	top: 865px;
+	z-index: 1;
+	background-color: #2a120e;
+	vertical-align: center;
+	padding: 10px;
+}
+
+img#story2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 325px;
+}
+
+img.story2 {
+	float: left;
+	padding: 160px 175px 180px 180px;
+}
+
+div#story3 {
+	position: absolute;
+	right: 75px;
+	top: 1355px;
+	z-index: 1;
+	background-color: #2a120e;
+	vertical-align: center;
+	padding: 10px;
+}
+
+img#story3 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 325px;
+}
+
+img.story3 {
+	float: right;
+	padding: 180px 115px 160px 110px;
+}
+
+div#story4 {
+	position: absolute;
+	left: 80px;
+	top: 1875px;
+	z-index: 1;
+	background-color: #2a120e;
+	vertical-align: center;
+	padding: 10px;
+}
+
+img#story4 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 400px;
+}
+
+img.story4 {
+	float: left;
+	padding: 210px 95px 220px 95px;
+}
+
+/* @end */

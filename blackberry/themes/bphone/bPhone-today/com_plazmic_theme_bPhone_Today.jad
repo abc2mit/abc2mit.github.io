@@ -1,0 +1,53 @@
+RIM-COD-SHA1-4: 14 a7 03 f3 9f fe a0 32 89 01 67 e8 d9 1d f4 d7 ae 09 29 89
+RIM-COD-SHA1-3: 25 ae cb 50 9e 5c 37 31 c0 6e a5 7b c2 99 8c 79 48 d9 b0 6b
+RIM-COD-SHA1-2: 86 ae 34 2b 10 f6 37 07 79 b3 02 51 20 22 53 84 df c5 03 61
+RIM-COD-URL-11: com_plazmic_theme_bPhone_Today-11.cod
+RIM-COD-SHA1-1: 2d 1e b3 f8 21 b7 4c 5e 70 4e 13 57 53 4f a6 b6 09 8e fd 96
+RIM-COD-URL-10: com_plazmic_theme_bPhone_Today-10.cod
+RIM-MIDlet-Flags-1: 195
+MIDlet-Jar-Size: 0
+MIDlet-Name: com_plazmic_theme_bPhone_Today
+MIDlet-Jar-URL: com_plazmic_theme_bPhone_Today.jar
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Description: A user defined 8300 theme for version 4.2.2
+RIM-COD-URL-9: com_plazmic_theme_bPhone_Today-9.cod
+RIM-COD-URL-8: com_plazmic_theme_bPhone_Today-8.cod
+RIM-MIDlet-Position-1: 0
+RIM-COD-URL-7: com_plazmic_theme_bPhone_Today-7.cod
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-URL-6: com_plazmic_theme_bPhone_Today-6.cod
+RIM-COD-URL-5: com_plazmic_theme_bPhone_Today-5.cod
+RIM-COD-URL-4: com_plazmic_theme_bPhone_Today-4.cod
+RIM-COD-URL-3: com_plazmic_theme_bPhone_Today-3.cod
+RIM-COD-URL-2: com_plazmic_theme_bPhone_Today-2.cod
+RIM-COD-URL-1: com_plazmic_theme_bPhone_Today-1.cod
+RIM-COD-Size-9: 47848
+RIM-COD-Size-8: 47032
+RIM-COD-Size-7: 51924
+RIM-COD-Size-6: 33808
+RIM-COD-Size-5: 42616
+RIM-COD-Size-4: 58088
+RIM-COD-Size-3: 28540
+RIM-COD-Module-Name: com_plazmic_theme_bPhone_Today
+RIM-COD-Size-2: 50592
+RIM-COD-Size-1: 56404
+RIM-COD-SHA1: 3f bb da 43 16 b6 73 87 be 9c c6 bc 69 1e 6a 6d 2e c2 61 2a
+RIM-COD-Size: 55872
+MicroEdition-Profile: MIDP-1.0
+RIM-COD-Size-11: 53468
+RIM-COD-Size-10: 50640
+MIDlet-Vendor: Research In Motion
+MIDlet-1: ,,
+RIM-COD-URL: com_plazmic_theme_bPhone_Today.cod
+RIM-COD-SHA1-11: a8 4d 85 30 ee 17 7b 0c 4e a1 ad e1 a1 f5 d2 e8 1a 86 7f c7
+RIM-COD-SHA1-10: bd f2 71 cb 8c 29 37 13 0b 03 77 f6 fc 4b 08 dd 71 4e a7 60
+RIM-MIDlet-NameResourceId-1: 0
+Manifest-Version: 1.0
+MIDlet-Version: 2007.09.26.2351
+RIM-COD-SHA1-9: be ff ee 93 39 88 03 27 59 35 80 65 a2 bc 75 e7 bf 07 e7 93
+RIM-COD-SHA1-8: 48 40 e7 96 44 9d 21 8f 12 42 a7 4a 37 7f 9e db ce ef 25 2c
+RIM-COD-SHA1-7: 4c 43 fc 63 90 e1 e8 40 95 94 b0 c7 ad 8c 39 ec 1e 84 b3 94
+RIM-MIDlet-NameResourceBundle-1: 
+RIM-COD-SHA1-6: 65 97 00 e6 ee 96 54 2c d7 e0 ef d7 7e a1 70 63 66 c3 49 43
+RIM-COD-Creation-Time: 1190865068
+RIM-COD-SHA1-5: d8 6a 40 74 34 c2 a6 68 6e 7b a5 6c 15 01 60 65 7a 9f c9 0b

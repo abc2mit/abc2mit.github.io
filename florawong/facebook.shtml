@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 05.11
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_facebook </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user inteface, user experience" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="websites.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>Facebook \ </p>
+	<p>Charles Schwab  </p>
+
+	<div class="description">
+		<p>_Facebook contest & multimedia ad to promote Schwab Gives Denver Campaign / May.11 
+		<br />
+		<br />
+		<i>Tagline</i>_Join us for Schwab Gives: Denver! </p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/facebook/Schwab_Gives01.png" alt="Denver Charity Contest Main Page" width="420" height="388"/>
+		<img src="images/facebook/Schwab_Gives02.png" alt="Denver Charity Contest Gallery" width="420" height="388"/>
+		<img src="images/facebook/Schwab_Gives03.png" alt="Denver Charity Contest Charity Details" width="420" height="388"/>
+		<img src="images/facebook/Schwab_Gives04.png" alt="Denver Charity Contest Invite Friends" width="420" height="388"/>
+	</div>
+	
+</div>
+
+<div id="bottom">
+	<p>_Media Design </p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

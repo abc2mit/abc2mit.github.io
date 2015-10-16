@@ -1,0 +1,26 @@
+[29-Jun-2008 23:41:02] PHP Fatal error:  Call to a member function toString() on a non-object in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/display_classes.php on line 73
+[29-Jun-2008 23:50:26] PHP Fatal error:  Call to a member function toString() on a non-object in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/display_classes.php on line 73
+[30-Jun-2008 00:02:01] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 836
+[30-Jun-2008 00:02:01] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 836
+[30-Jun-2008 00:02:01] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 836
+[30-Jun-2008 00:17:26] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 836
+[30-Jun-2008 00:20:27] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 836
+[30-Jun-2008 00:35:05] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 836
+[30-Jun-2008 00:48:37] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 836
+[30-Jun-2008 00:48:37] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 836
+[30-Jun-2008 00:55:08] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 836
+[30-Jun-2008 00:55:08] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 838
+[30-Jun-2008 00:55:08] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 836
+[30-Jun-2008 00:55:08] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 838
+[30-Jun-2008 00:56:10] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 838
+[30-Jun-2008 00:56:10] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 840
+[30-Jun-2008 00:56:10] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 838
+[30-Jun-2008 00:56:10] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 840
+[30-Jun-2008 00:58:26] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 842
+[30-Jun-2008 00:58:26] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 844
+[30-Jun-2008 00:58:26] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 842
+[30-Jun-2008 00:58:26] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 844
+[30-Jun-2008 23:38:18] PHP Fatal error:  Call to a member function toString() on a non-object in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 1309
+[02-Jul-2008 05:35:57] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 845
+[02-Jul-2008 05:35:57] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 847
+[02-Jul-2008 05:37:08] PHP Fatal error:  Call to a member function getConnections() on a non-object in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 892

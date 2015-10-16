@@ -1,0 +1,22 @@
+/* wallpapers.css */
+
+#content > p {font-size: 16px; }
+
+.description p {margin: 0px 200px 15px 0px; }
+
+p {clear: both; }
+
+img {float: left; }
+
+.samples img {margin: 0px 0px 3px 3px; }
+.samples p {padding-bottom: 5px; }
+
+#personal {padding-top: 20px; }
+
+.space {padding-top: 10px; }
+
+.clear {padding-top: 10px; }
+
+#photo {font-style: italic; }
+
+#table td {padding: 0px 2px 2px 0px; }

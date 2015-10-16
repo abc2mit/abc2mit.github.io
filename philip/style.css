@@ -1,0 +1,20 @@
+.brown {
+    background-color: #5a2d0c;
+    width: 25px;
+    height: 25px;
+    margin: 2px 2px 2px 2px;
+}
+
+.black {
+    background-color: #000000;
+    width: 25px;
+    height: 20px;
+    margin: 2px 2px 2px 2px;
+}
+
+.green {
+    background-color: #105a10;
+    width: 25px;
+    height: 20px;
+    margin: 2px 2px 2px 2px;
+}

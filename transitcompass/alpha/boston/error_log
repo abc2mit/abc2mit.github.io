@@ -1,0 +1,4 @@
+[31-May-2008 00:03:56] PHP Fatal error:  Call to a member function getArea() on a non-object in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 1469
+[09-Jun-2008 13:44:12] PHP Fatal error:  Call to a member function getArea() on a non-object in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 1469
+[09-Jun-2008 18:13:47] PHP Fatal error:  Call to a member function getArea() on a non-object in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 1469
+[12-Jun-2008 18:04:47] PHP Fatal error:  Call to a member function getArea() on a non-object in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm2.php on line 1469

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="css/index.css"/>
+		<script language="JavaScript">
+		<!--
+		// PRELOADING IMAGES
+		if (document.images) {
+			reviewsup = new Image();
+			reviewsup.src = "photos/reviews.jpg";
+			locationup = new Image();
+			locationup.src = "photos/location.jpg";
+			homecookingup = new Image();
+			homecookingup.src = "photos/homecooking.jpg";
+			thefamilyup = new Image();
+			thefamilyup.src = "photos/thefamily.jpg";
+			thefamilydown = new Image();
+			thefamilydown.src = "photos/thefamily-over.jpg";
+		}
+		
+		function buttondown(buttonname) {
+			if (document.images) {
+				document[ buttonname ].src = eval( buttonname + "down.src" );
+			}
+ 		}
+		
+		function buttonup(buttonname) {
+			if (document.images) {
+				document[ buttonname ].src = eval( buttonname + "up.src" );
+			}
+		}
+		//-->
+		</script>
+	</head>
+	<body>
+		<div id="content">
+			<div id="restaurant">
+				La Perlita
+			</div>
+			<div id="sections">
+				<span class="section" id="reviews">
+					<a href="" onmouseover="buttondown('reviews')" onmouseout="buttonup('reviews')">
+						<img src="photos/reviews.jpg" name="reviews" border="0" />
+					</a>
+				</span>
+				<span class="section" id="location">
+					<a href="" onmouseover="buttondown('location')" onmouseout="buttonup('location')">
+						<img src="photos/location.jpg" name="location" border="0" />
+					</a>
+				</span>
+				<span class="section" id="homecooking">
+					<a href="" onmouseover="buttondown('homecooking')" onmouseout="buttonup('homecooking')">
+						<img src="photos/homecooking.jpg" name="homecooking" border="0" />
+					</a>
+				</span>
+				<span class="section" id="thefamily">
+					<a href="" onmouseover="buttondown('thefamily')" onmouseout="buttonup('thefamily')">
+						<img src="photos/thefamily.jpg" name="thefamily" border="0" />
+					</a>
+				</span>
+			</div>
+	
+	</body>
+</html>

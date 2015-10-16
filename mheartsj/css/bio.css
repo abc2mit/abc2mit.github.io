@@ -1,0 +1,75 @@
+/* @group DIV sections */
+
+div#story {
+	font-size: 1em;
+	text-align: justify;
+	/*height: 600px;*/
+}
+div#story a:hover {
+	color: #ffffff;
+}
+
+div#subtext {
+	position: relative;
+	text-align: right;
+	width: 100%;
+}
+
+div#title {
+	width: 58%;
+}
+
+/* @end */
+
+/* @group Fonts */
+
+h3 {
+	margin-bottom: -1em;
+	padding-bottom: 0;
+}
+
+b.name {
+	font-size: 1.4em;
+}
+
+strong {
+	color: #2a120e;
+}
+
+/* @end */
+
+/* @group menus */
+/*
+	The bridal party menu
+*/
+
+div#bridal b.header {
+	font-size: 1.3em;
+}
+
+div#bridal {
+	position: absolute;
+	right: 90px;
+	top: 190px;
+	background-color: #2a120e;
+	color: #FFFFFF;
+	padding: 10px 10px 10px 10px;
+	float: left;
+}
+
+div#bridal a {
+	color: #FFFFFF;
+}
+
+div#bridal a:hover {
+	color: #f67d2c;
+}
+
+/* @end */
+
+img.placeholder {
+	float: right;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 15px;
+}

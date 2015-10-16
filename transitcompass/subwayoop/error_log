@@ -1,0 +1,2 @@
+[28-Feb-2009 09:45:32] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/michaeq6/public_html/transitcompass/subwaydb/db.php on line 17
+[28-Feb-2009 09:45:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/michaeq6/public_html/transitcompass/subwaydb/db.php on line 17

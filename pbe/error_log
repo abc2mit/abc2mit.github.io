@@ -1,0 +1,2 @@
+[27-Sep-2010 12:03:31] PHP Fatal error:  Class 'BB_User' not found in /home4/digressi/public_html/pbe/bb-plugins/approve-user-registration.php on line 58
+[27-Sep-2010 12:17:43] PHP Fatal error:  Cannot redeclare bb_new_user() (previously declared in /home4/digressi/public_html/pbe/bb-plugins/approve-user-registration.php:26) in /home4/digressi/public_html/pbe/bb-plugins/instant-password.php on line 93

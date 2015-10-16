@@ -1,0 +1,91 @@
+		.left {
+			float:left;
+			margin:5px 10px 5px 0;
+		}
+		.right {
+			float:left;
+			margin:5px 10px 5px 0;
+		}
+		.clear {
+			clear:both;
+		}
+		img {
+			border:none;
+		}
+		body {
+			font-family: verdana, sans-serif;
+			line-height: 1.5em;
+			font-size: 10pt;
+			margin:5% 10% 5% 10%;
+		}
+		body:before {
+			content: "// digression.net";
+			font-size:20pt;
+		}
+		small {
+			font-size:9pt;
+			color:#999;
+		}
+		h1 {
+			margin:0;
+			font-size:12pt;
+			font-weight:bold;
+			clear:both;
+		}
+		h3 {
+			border-bottom:1px solid #ccc;
+			font-size:8pt;
+			margin:20px 0 0 0;
+			padding-bottom:1px;
+			font-weight:bold;
+			clear:both;
+		}
+		p+h1 {
+			margin-top:30px;
+		}
+		#sideframe p {
+			margin:0 0 5px 0;
+		}
+		p.date {
+			font-size:9pt;
+			color:#999;
+		}
+		p span.numbers {
+			word-spacing:-2px;
+			white-space:nowrap;
+		}
+		div.download {
+			margin:10px 10px 0 0;
+			float:left;
+			padding:0 10px 0px 10px;
+			border:1px solid #ccc;
+			background:white;
+		}
+		#headline {
+			margin: 0 0 20px 30px;
+		}
+		#sideframe {
+			font-size:8pt;
+		}
+		#logo {
+			display:none;
+		}
+		address {
+			font-size:90%;
+			color:#999;
+			border-top:1px solid #ccc;
+		}
+		a:link, a:visited {
+			font-weight: bold;
+        		text-decoration: underline;
+        		color:black;
+		}
+		a:link:after, a:visited:after {
+			content: " (" attr(href) ") ";
+			font-weight: normal;
+        		color:gray;
+	   }
+
+		#navigation {
+			display:none;
+		}

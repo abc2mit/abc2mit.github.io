@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 01.10
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_ads </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user interface, user experiece" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="ads.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>Ads \ </p>
+	<p>Charles Schwab </p>
+
+	<div class="description">
+		<p>_Print advertisement for Schwab Charitable. Speaking to the affluent driven donor to change the way they think by not just donating but donating more effectively with Donor Advised Funds / Oct.13 <br />
+		</p>
+	</div>
+	
+	<div class="samples">
+	<img src="images/ads/charitable_ad.jpg" alt="print advertisment of Schwab Charitable" width="445" height="584"/>
+	</div>
+	
+	<p id="personal">Hewlett Packard </p>
+
+	<div class="description">
+		<p>_Conceptual advertisements for HP Officejet targeting small businesses. Assignment was to create an identity for a fictional fashion boutique and design outputs in which this particular small business would generate / Oct.08 <br />
+		<br />
+		<i>Outputs</i>_(from left to right) Catalog cover, catalog page, clothing tags, business chart, postcards &amp; in-store signage</p>
+	</div>
+	
+	<img src="images/ads/fashion1.jpg" alt="poster advertisment of HP IPG Output" width="320" height="495"/>
+	
+	<div class="samples">
+		<img src="images/ads/adelaide_cover.jpg" alt="Adelaide Catalog Cover" width="190" height="246"/>
+		<img src="images/ads/adelaide_catalog.jpg" alt="Adelaide Catalog Page" width="190" height="246"/>
+		<img src="images/ads/adelaide_tags.jpg" alt="Adelaide Cloth Tag Output" width="190" height="246"/>
+		<img src="images/ads/adelaide_chart.jpg" alt="Adelaide Chart Page in Catalog" width="190" height="246"/>
+		<img src="images/ads/adelaide_postcard.jpg" alt="Adelaide Trunk Show Postcard" width="190" height="246"/>
+		<img src="images/ads/adelaide_sale.jpg" alt="Adelaide in store signage" width="190" height="246"/>
+	</div>
+	
+</div>
+
+<div id="bottom">
+	<p>_Print Design </p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

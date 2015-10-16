@@ -1,0 +1,59 @@
+body {
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font-size: 10px;
+}
+
+a {
+	color: #2a120e;
+	padding: 2px 6px 2px 5px;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #2a120e;
+	border: dotted 1px #2a120e;
+	padding: 2px 5px 2px 5px;
+	text-decoration: none;
+}
+
+img#mj {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	border: 0;
+}
+
+div#browserinfo {
+    text-align: center;
+}
+
+div#copyright {
+	font-size: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 20px;
+}
+
+div#entrance {
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	text-align: right;
+	margin-top: 20px;
+	font-size: 12px;
+}
+
+div#browserinfo {
+	color: black;
+	font-weight: bold;
+}
+
+div#main {
+	text-align: center;
+}
+
+/*a#ielink {
+    visibility: hidden;
+}*/

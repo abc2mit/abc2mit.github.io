@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 01.10
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_posters </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user interface, user experience" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="posters.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>Posters \ </p>
+	<p>Creative i Interactive &amp; Advertising Agency </p>
+	
+	<div class="description">
+		<p>_Posters created for Project Rebound campaign. Promoting creativity & attitude in tough times / Sept.09 <br />
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/posters/boom_gloom.jpg" alt="more boom less gloom poster" width="295" height="457"/> 
+		<img src="images/posters/recession.jpg" alt="it's not a recession, it's a pre-boom poster" width="295" height="457"/>
+		<img src="images/posters/pessimism.jpg" alt="pessimism sucks poster" width="295" height="295"/>
+	</div>
+	
+	<p class="clear">Hewlett Packard  </p>
+	
+	<div class="description">
+		<p>_Fictitious movie posters for HP TouchSmart movie platform screens / Aug.09 <br />
+		<br />
+		<i>Photography</i>_<a href="http://www.creative-i.com/" target="blank">Creative i</a>
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/posters/silouette.jpg" alt="fictitious deep dive movie poster" width="296" height="457"/> 
+		<img src="images/posters/skyline.jpg" alt="fictitious comrads indie movie poster" width="296" height="457"/>
+		<img src="images/posters/G11036007092009.jpg" alt="HP TouchSmart movie platform screen" width="295" height="166"/>
+	</div>
+	
+</div>
+
+<div id="bottom">
+	<p>_Print Design </p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+</div>
+
+</body>
+</html>

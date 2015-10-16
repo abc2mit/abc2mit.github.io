@@ -1,0 +1,156 @@
+[06-Mar-2008 02:17:21] PHP Fatal error:  Call to undefined function  connectdb() in /home/michaeq6/public_html/transitcompass/boston/index.php on line 31
+[28-Apr-2008 20:27:57] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 222
+[01-May-2008 19:04:20] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 222
+[10-May-2008 19:17:19] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 273
+[10-May-2008 19:17:19] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 278
+[10-May-2008 19:17:30] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 273
+[10-May-2008 19:17:30] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 278
+[10-May-2008 19:18:13] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 273
+[10-May-2008 19:18:13] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 278
+[10-May-2008 19:18:21] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 273
+[10-May-2008 19:18:21] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 278
+[10-May-2008 19:19:39] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 273
+[10-May-2008 19:19:39] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 278
+[10-May-2008 19:20:24] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 273
+[10-May-2008 19:20:24] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 278
+[14-May-2008 15:41:25] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[15-May-2008 10:04:00] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[15-May-2008 10:04:33] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[15-May-2008 10:08:43] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[15-May-2008 10:09:16] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[18-May-2008 23:42:36] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[19-May-2008 09:58:05] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 273
+[19-May-2008 09:58:05] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 278
+[20-May-2008 10:07:49] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 270
+[20-May-2008 10:08:05] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 270
+[20-May-2008 18:00:50] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[27-May-2008 08:05:55] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 270
+[27-May-2008 08:06:21] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 270
+[06-Jun-2008 00:31:54] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[06-Jun-2008 00:32:16] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[06-Jun-2008 00:32:32] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[06-Jun-2008 00:32:35] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[09-Jun-2008 11:54:06] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[12-Jun-2008 17:41:35] PHP Warning:  Division by zero in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 771
+[18-Jun-2008 12:02:25] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 270
+[19-Jun-2008 16:04:31] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[21-Jun-2008 19:44:51] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 273
+[21-Jun-2008 19:44:51] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 278
+[21-Jun-2008 19:44:56] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 273
+[21-Jun-2008 19:44:56] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 278
+[23-Jun-2008 13:43:21] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 270
+[26-Jun-2008 09:41:16] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[26-Jun-2008 09:41:26] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[26-Jun-2008 09:41:40] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[26-Jun-2008 09:43:45] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[26-Jun-2008 13:05:47] PHP Warning:  fopen(http://maps.google.com/maps?q=14+norma+road%2C+Boston&amp;output=js) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Connection timed out in /home/michaeq6/public_html/transitcompass/subwayoop/location_functions.php on line 136
+[26-Jun-2008 13:05:47] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/michaeq6/public_html/transitcompass/subwayoop/location_functions.php on line 138
+[26-Jun-2008 13:05:47] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/michaeq6/public_html/transitcompass/subwayoop/location_functions.php on line 140
+[26-Jun-2008 13:06:23] PHP Warning:  fopen(http://maps.google.com/maps?q=14+norma+road%2C+Boston&amp;output=js) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Connection timed out in /home/michaeq6/public_html/transitcompass/subwayoop/location_functions.php on line 136
+[26-Jun-2008 13:06:23] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/michaeq6/public_html/transitcompass/subwayoop/location_functions.php on line 138
+[26-Jun-2008 13:06:23] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/michaeq6/public_html/transitcompass/subwayoop/location_functions.php on line 140
+[26-Jun-2008 13:06:47] PHP Warning:  fopen(http://maps.google.com/maps?q=one+international+place%2C+boston+ma&amp;output=js) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Connection timed out in /home/michaeq6/public_html/transitcompass/subwayoop/location_functions.php on line 136
+[26-Jun-2008 13:06:47] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/michaeq6/public_html/transitcompass/subwayoop/location_functions.php on line 138
+[26-Jun-2008 13:06:47] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/michaeq6/public_html/transitcompass/subwayoop/location_functions.php on line 140
+[03-Jul-2008 20:34:56] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 273
+[03-Jul-2008 20:34:56] PHP Warning:  Attempt to assign property of non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 274
+[03-Jul-2008 20:34:56] PHP Fatal error:  Call to a member function addSegment() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 278
+[06-Jul-2008 18:48:37] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 270
+[22-Jul-2008 04:39:23] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[22-Jul-2008 04:41:04] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[22-Jul-2008 04:41:31] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[22-Jul-2008 04:43:58] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[29-Jul-2008 21:27:09] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[29-Jul-2008 21:27:45] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[30-Jul-2008 15:05:12] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[30-Jul-2008 22:02:40] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[31-Jul-2008 18:59:08] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 273
+[31-Jul-2008 18:59:08] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 278
+[06-Aug-2008 09:50:20] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[27-Aug-2008 05:52:04] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 273
+[27-Aug-2008 05:52:04] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 278
+[27-Aug-2008 05:52:26] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 273
+[27-Aug-2008 05:52:26] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 278
+[03-Sep-2008 12:12:25] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[08-Sep-2008 20:01:38] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[10-Sep-2008 06:15:45] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 273
+[10-Sep-2008 06:15:45] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 278
+[05-Oct-2008 05:05:13] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[05-Oct-2008 05:05:14] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[11-Oct-2008 09:12:35] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 273
+[11-Oct-2008 09:12:35] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 278
+[23-Oct-2008 19:36:14] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[23-Oct-2008 19:36:25] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[30-Oct-2008 15:22:44] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 273
+[30-Oct-2008 15:22:44] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 278
+[28-Nov-2008 19:44:10] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[03-Dec-2008 11:56:09] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[18-Dec-2008 17:19:21] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 276
+[18-Dec-2008 17:22:04] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 270
+[02-Jan-2009 11:47:40] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[24-Jan-2009 09:06:11] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 270
+[15-Feb-2009 17:47:31] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[15-Feb-2009 17:47:53] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[17-Feb-2009 23:14:40] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[24-Feb-2009 07:39:30] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[21-Mar-2009 09:20:00] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 270
+[21-Mar-2009 09:20:11] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 270
+[23-Mar-2009 16:57:25] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[23-Mar-2009 16:57:45] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[23-Mar-2009 16:57:53] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[30-Mar-2009 12:43:09] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 276
+[09-Apr-2009 10:32:00] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[23-Apr-2009 19:12:37] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 347
+[24-Apr-2009 11:59:38] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[29-Apr-2009 11:24:16] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[29-Apr-2009 11:24:34] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[06-May-2009 11:41:53] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[06-May-2009 11:47:02] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[14-May-2009 00:30:44] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[16-May-2009 12:41:13] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 270
+[16-May-2009 12:41:23] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 270
+[17-May-2009 10:22:40] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[17-May-2009 10:22:56] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[21-May-2009 13:33:59] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[10-Jun-2009 14:13:18] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[10-Jun-2009 14:15:23] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[10-Jun-2009 14:16:01] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[12-Jun-2009 21:43:55] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[19-Jun-2009 09:14:36] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[19-Jun-2009 09:14:46] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[19-Jun-2009 09:14:54] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[19-Jun-2009 09:15:22] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[22-Jun-2009 11:00:51] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 276
+[12-Jul-2009 06:18:59] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[09-Sep-2009 07:45:33] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[09-Sep-2009 07:45:38] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[09-Sep-2009 07:45:39] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[09-Sep-2009 07:47:07] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[09-Sep-2009 07:47:08] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[09-Sep-2009 11:45:28] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[12-Sep-2009 10:10:25] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[12-Sep-2009 10:10:41] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[12-Sep-2009 16:32:27] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 276
+[18-Sep-2009 15:32:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/michaeq6/public_html/transitcompass/subwaydb/db.php on line 17
+[21-Sep-2009 19:48:50] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 273
+[21-Sep-2009 19:48:50] PHP Fatal error:  Call to a member function getAddressString() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/search2.php on line 276
+[25-Sep-2009 21:17:10] PHP Fatal error:  Call to a member function getLat() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[10-Oct-2009 11:53:10] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[10-Oct-2009 11:53:36] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[09-Apr-2010 14:04:43] PHP Fatal error:  Call to a member function getLat() on a non-object in /home4/digressi/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[11-Apr-2010 16:35:54] PHP Fatal error:  Call to a member function getLat() on a non-object in /home4/digressi/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[02-Jun-2010 13:05:40] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home4/digressi/public_html/transitcompass/subwayoop/search2.php on line 273
+[02-Jun-2010 13:05:40] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home4/digressi/public_html/transitcompass/subwayoop/search2.php on line 278
+[02-Jun-2010 13:06:26] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home4/digressi/public_html/transitcompass/subwayoop/search2.php on line 273
+[02-Jun-2010 13:06:26] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home4/digressi/public_html/transitcompass/subwayoop/search2.php on line 278
+[21-Jun-2010 13:14:33] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home4/digressi/public_html/transitcompass/subwayoop/search2.php on line 273
+[21-Jun-2010 13:14:33] PHP Warning:  Attempt to assign property of non-object in /home4/digressi/public_html/transitcompass/subwayoop/search2.php on line 274
+[21-Jun-2010 13:14:33] PHP Fatal error:  Call to a member function addSegment() on a non-object in /home4/digressi/public_html/transitcompass/subwayoop/search2.php on line 278
+[15-Jul-2010 23:22:56] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home4/digressi/public_html/transitcompass/subwayoop/search2.php on line 273
+[15-Jul-2010 23:22:56] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home4/digressi/public_html/transitcompass/subwayoop/search2.php on line 278
+[15-Jul-2010 23:23:00] PHP Warning:  array_unshift() [<a href='function.array-unshift'>function.array-unshift</a>]: The first argument should be an array in /home4/digressi/public_html/transitcompass/subwayoop/search2.php on line 273
+[15-Jul-2010 23:23:00] PHP Fatal error:  Call to undefined method stdClass::addSegment() in /home4/digressi/public_html/transitcompass/subwayoop/search2.php on line 278
+[22-Sep-2010 19:22:47] PHP Fatal error:  Call to a member function getLat() on a non-object in /home4/digressi/public_html/transitcompass/subwayoop/algorithm2.php on line 334
+[05-May-2011 18:04:54] PHP Fatal error:  Call to a member function getLng() on a non-object in /home4/digressi/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[08-Jul-2011 16:59:36] PHP Fatal error:  Call to a member function getLng() on a non-object in /home4/digressi/public_html/transitcompass/subwayoop/map_functions.php on line 47
+[08-Jul-2011 17:00:02] PHP Fatal error:  Call to a member function getLng() on a non-object in /home4/digressi/public_html/transitcompass/subwayoop/map_functions.php on line 47

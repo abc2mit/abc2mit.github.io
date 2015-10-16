@@ -1,0 +1,42 @@
+body {
+	background: #FFFFFF;
+}
+
+div#content {
+	width: 1000px;
+	margin: auto;
+}
+
+div#restaurant {
+	font-family: "Zapfino";
+	font-size: 60px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	color: #991F00;
+/*	border: 1px solid #333;*/
+	padding-left: 30px;
+	margin-top: 50px;
+	padding-top: 30px;
+	width: 970px;
+}
+
+span.section {
+	float: left;
+	text-align: right;
+	width: 25%;
+}
+span .text {
+	visibility: hidden;
+}
+
+span#reviews {
+}
+
+span#location {
+}
+
+span#homecooking {
+}
+
+span#thefamily {
+}

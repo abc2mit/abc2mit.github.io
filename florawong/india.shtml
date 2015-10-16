@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 01.10
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_photography_india</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user interface, user experience" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="india.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>India \ </p>
+	<p>Tura, North East India <span id="date">/ Dec.07</span> </p>
+
+	<div class="description">
+		<p>_An isolated region wedged between Bangladesh, Bhutan, China and Myanmar with only a thin corridor connecting it to the rest of India. One of the largest towns in Meghalaya, Tura is a valley located at the foothills of the Tura Hills and right below the Tura Peak
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/india/India07_01.jpg" alt="picture of man driving on motorcycle" width="360" height="241"/> 
+		<img src="images/india/India07_02.jpg" alt="picture of man ontop of scaffolds" width="360" height="241"/>
+		<img src="images/india/India07_06.jpg" alt="picture of street view of overpass with children transporting wood" width="360" height="241"/> 
+		<img src="images/india/India07_04.jpg" alt="picture of children snack vendor" width="360" height="241"/>
+		<img src="images/india/India07_09.jpg" alt=" residential picture steps" width="222" height="332"/> 
+		<img src="images/india/India07_03.jpg" alt="picture of girl walking while carrying a seat" width="495" height="332"/>
+		<img src="images/india/India07_07.jpg" alt="picture of sound system equipment &amp; grasshoppers" width="360" height="241"/> 
+		<img src="images/india/India07_08.jpg" alt="picture of people singing at night" width="360" height="241"/>
+	</div>
+	
+</div>
+
+<div id="bottom">
+	<p>_Photography </p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

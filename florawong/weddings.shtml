@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 01.10
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_weddings </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user interface, user experience" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="weddings.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>Weddings \ </p>
+	<p> Mary &amp; Charles Hester </p>
+	<div class="description">
+		<p><i>Date</i>_September 10<sup>th</sup>, 2011&nbsp;&nbsp;&nbsp;&nbsp;<i>Venue</i>_Embassy Suites&nbsp;&nbsp;Burlingame, CA <br />
+		<i>Theme</i>_Vintage Monogram<br />
+		<i>Colors</i>_Pink &amp; brown  <br />
+		<i>Deliverable</i>_Save the Date, Invitation, Favors &amp; Programs
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/weddings/hester_program1.jpg" alt="mary &amp; charles' wedding program" width="615" height="410"/>
+		<img src="images/weddings/hester_favor.jpg" alt="mary &amp; charles' wedding favors" width="273" height="410"/>
+		<img src="images/weddings/hester_program2.jpg" alt="mary &amp; charles' wedding programs in basket" width="615" height="410"/> 
+		
+		<p id="photo"><i>Photograph</i>_<a href="http://www.jezaphoto.com/" target="_blank">Jeza Photography</a></p>
+	</div>
+	
+	<p> Jessica &amp; Michael Ho </p>
+	<div class="description">
+		<p><i>Date</i>_May 11<sup>th</sup>, 2009&nbsp;&nbsp;&nbsp;&nbsp;<i>Venue</i>_Lanikuhonua&nbsp;&nbsp;Oahu, Hawaii <br />
+		<i>Theme</i>_Tropical Elegance<br />
+		<i>Colors</i>_Oranges <br />
+		<i>Deliverable</i>_Programs
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/weddings/mheartj_program.jpg" alt="jess &amp; mike's wedding program" width="300" height="451"/> 
+		
+		<p id="photo">Photograph_<a href="http://www.visionari.com/" target="_blank">Visionari</a></p>
+	</div>
+	
+	<p>Cora &amp; Ron Ma </p>
+
+	<div class="description">
+		<p> <i>Date</i>_July 19<sup>th</sup>, 2008&nbsp;&nbsp;&nbsp;&nbsp;<i>Venue</i>_Villa Ragusa&nbsp;&nbsp;Campbell, CA <br />
+		<i>Theme</i>_Whimsical with floral motif <br />
+		<i>Colors</i>_Light blue &amp; silver <br />
+		<i>Paper</i>_Classic Crest Avon Brilliant White <br />
+		<i>Deliverables</i>_Invitation &amp; Programs </p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/weddings/CORONAWedding_Invitation_01.jpg" alt="cora &amp; ron's invitation cover" width="216" height="323"/> 
+		<img src="images/weddings/CORONAWedding_Invitation_02.jpg" alt="cora &amp; ron's invitation cover page" width="216" height="323"/> 
+		<img src="images/weddings/CORONAWedding_Invitation_03.jpg" alt="cora &amp; ron's invitation information" width="216" height="323"/>
+		<img src="images/weddings/CORONAWedding_Invitation_04.jpg" alt="cora &amp; ron's invitation ceremony location" width="216" height="323"/> 
+		<img src="images/weddings/CORONAWedding_Invitation_05.jpg" alt="cora &amp; ron's invitation reception location" width="216" height="323"/> 
+		<img src="images/weddings/CORONAWedding_Invitation_06.jpg" alt="cora &amp; ron's invitation rsvp" width="216" height="323"/>
+		<img src="images/weddings/CORONAInvitation_n_Program.jpg" alt="cora &amp; ron's wedding invitation &amp; program" width="396" height="356"/>
+	</div>
+	
+	<p id="clear">Iris &amp; Masa Sato </p>
+
+	<div class="description">
+		<p><i>Date</i>_March 21<sup>st</sup>, 2009&nbsp;&nbsp;&nbsp;&nbsp;<i>Venue</i>_Postino&nbsp;&nbsp;Lafayette, CA <br />
+		<i>Theme</i>_Modern oriental with ginko motif<br />
+		<i>Colors</i>_Pale yellow &amp; gray <br />
+		<i>Deliverables</i>_Save the Date, Invitation, Favors &amp; Programs
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/weddings/IRMAsavethedate_english.jpg" alt="iris &amp; masa's english save the date" width="396" height="264"/>
+		<img src="images/weddings/ginko_favor.jpg" alt="iris &amp; masa's tea favors" width="396" height="264"/>
+		<img src="images/weddings/IRMAsavethedate_jap.jpg" alt="iris &amp; masa's japanese save the date" width="216" height="324"/> 
+		<img src="images/weddings/IrisMasaWedding.jpg" alt="iris &amp; masa's wedding program" width="216" height="324"/> 
+		
+		<p id="photo">Photographs_<a href="http://www.kalikraum.com/" target="_blank">Kali Kraum</a></p>
+	</div>
+	
+</div>
+
+<div id="bottom">
+	<p>_Print Design</p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

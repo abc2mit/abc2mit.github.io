@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 01.10
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_signages </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user experience, user interface" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="signages.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>Signages \ </p>
+	<p>Girl Scouts of Santa Clara County</p>
+
+	<div class="description">
+		<p>_Bus advertisment signage for Girl Scouts. Derived from a paper doll concept, rather changing her appearance for the day, a girl can find herself living differently each day. Freestyle design elements created in tune with girl's innate qualities of expression / May.04 
+		<br />
+		<br />
+		<i>Tagline</i>_Find Yourself Here <br />
+		<i>Award</i>_2004 Silver Addy Award, Ad Club of Silicon Valley </p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/signages/GirlScouts_banner_01.jpg" alt="bus advertisment of girls on a roller coaster and the cut out image is where you can find yourself" width="578" height="163"/> 
+		<img src="images/signages/GSbanner_on_bus.jpg" alt="girl scout bus advertisement in real environment" width="312" height="135"/>
+	</div>
+	
+	<div class="description">
+		<p id="clear">_Conceptual design for bus advertisment campaign for Girls Scouts / May.04 </p>
+	</div>
+	
+	<div class="samples">
+			<img src="images/signages/GirlScouts_banner_02.jpg" alt="bus advertisment of a parachuter cut out where you can find yourself" width="578" height="163"/>
+	</div>
+	
+	<p id="southbay">Hewlett Packard</p>
+
+	<div class="description">
+		<p>_Series of 40x96in. HP product pull up banner for internal events / Feb.10 
+		 </p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/signages/pullupbanner_dm3.jpg" alt="Pavilion DM3 pull up banner" width="222" height="478"/> 
+		<img src="images/signages/pullupbanner_tm2.jpg" alt="TouchSmart TM2 pull up banner" width="222" height="478"/>
+		<img src="images/signages/pullupbanner_mini_tb.jpg" alt="Mini by Tord Boontje pull up banner" width="222" height="478"/> 
+		<img src="images/signages/pullupbanner_vt.jpg" alt="VT Digital Clutch pull up banner" width="222" height="478"/>
+	</div>
+	
+	<p id="southbay">Southbay Community Baptist Church  </p>
+	
+	<div class="description">
+		<p>_2009 theme banner for Southbay Chinese Baptist Church in both Chinese &amp; English. Banners are placed and read horizontally across the sanctuary between a wooden cross. Design was created with theme in mind / Nov.08 <br />
+		<br />
+		<i>Concept</i>_An individual cross-stitch only creates an &ldquo;x&rdquo;, but stitched with others they can create their own landscape  <br />
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/signages/09banner_english.jpg" alt="english theme banner for SCBC" width="576" height="75"/>
+		<img src="images/signages/09banner_chinese.jpg" alt="chinese theme banner for SCBC" width="576" height="75"/>
+	</div>
+</div>
+
+<div id="bottom">
+	<p>_Print Design </p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

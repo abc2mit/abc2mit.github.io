@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 01.10
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_photography_california</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user interface, user experience" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="california.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>California \ </p>
+	<p>Convict Lake <span id="date">/ Aug.13</span> </p>
+
+	<div class="description">
+		<p>_A lake in the Sherwin Range of the Sierra Nevada. It is known for its fishing and the dramatic mountains that surround the lake. The lake was named after an incident on September 23, 1871, where a group of convicts escaped from prison in Carson City.
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/convict lake/convictlake_pano.jpg" alt="Panoramic of Convict Lake Camp Grounds" width="828" height="211"/> 
+		<img src="images/convict lake/mazanar_pano.jpg" alt="Panoramic of Mountains in Manzanar" width="828" height="179"/> 
+		<img src="images/convict lake/dragonfly_hotsprings.jpg" alt="Dragonfly resting on a Hot Spring" width="434" height="290"/> 
+		<img src="images/convict lake/yosemiteroad.jpg" alt="Smoke-filled road in Yosemite" width="194" height="290"/>
+	</div>
+	
+	<p class="clear">Trinity Alps Wilderness <span id="date">/ July.13</span> </p>
+
+	<div class="description">
+		<p>_The high, granitic and ultramafic peaks of the eastern half of the wilderness area are known as the Trinity Alps. Granite peaks at the core of the area are known as the White Trinities, reddish ultramafic peaks in the southeast are known as the Red Trinities, and the forested mountains in the western half of the wilderness are known as the Green Trinities.
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/trinity alps/trinity_pano.jpg" alt="Panoramic in Trinity Alps" width="828" height="283"/> 
+		<img src="images/trinity alps/jump.jpg" alt="Backing Buddies jumping on the cliff" width="412" height="276"/>
+		<img src="images/trinity alps/mountains.JPG" alt="Looking up a dried up waterfall" width="412" height="276"/> 
+		<img src="images/trinity alps/wilderness.JPG" alt="wandering in the wilderness" width="412" height="276"/>
+		<img src="images/trinity alps/landtubing.jpg" alt="Tubing on land" width="412" height="276"/> 
+		<img src="images/trinity alps/trinity_01.JPG" alt="Clear cloud-filled sky" width="194" height="290"/>
+		<img src="images/trinity alps/trinity_02.JPG" alt="Shasta Lake" width="194" height="290"/>
+		<img src="images/trinity alps/trinity_03.JPG" alt="Epic clouds in the alps" width="434" height="290"/> 
+	</div>
+	
+	<p class="clear">Lassen Volcanic National Park <span id="date">/ June.13</span> </p>
+
+	<div class="description">
+		<p>_The dominant feature of the park is Lassen Peak, the largest plug dome volcano in the world and the southern-most volcano in the Cascade Range. Lassen Volcanic National Park is one of the few areas in the world where all four types of volcano can be found (plug dome, shield, cinder cone, and strato).
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/lassen volcanic/lassen_pano.jpeg" alt="Panoramic on top of Lassen Peak" width="828" height="184"/> 
+		<img src="images/lassen volcanic/lassen_01.JPG" alt="Snow capped Lassen Peak" width="194" height="290"/>
+		<img src="images/lassen volcanic/lassen_02.JPG" alt="Looking down the grade on Lassen Peak" width="194" height="290"/>
+		<img src="images/lassen volcanic/lassen_03.JPG" alt="Looking yonder into the distance" width="434" height="290"/> 
+		<img src="images/lassen volcanic/clouds.JPG" alt="Looking yonder into the clouds" width="412" height="276"/>
+		<img src="images/lassen volcanic/kingscreek.JPG" alt="Kings Creek Meadow" width="412" height="276"/> 
+	</div>
+	
+	<p class="clear">Avenue of Giants <span id="date">/ Sept.09</span> </p>
+
+	<div class="description">
+		<p>_A scenic highway in the U.S. state of California, running through Humboldt Redwoods State Park. It is an old alignment of U.S. Route 101, and continues to be maintained by the state as State Route 254
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/redwoods/redwood04.jpg" alt="God rays in the forest" width="194" height="290"/> 
+		<img src="images/redwoods/redwood02.jpg" alt="sunset at humbolt bay" width="194" height="290"/>
+		<img src="images/redwoods/redwood05.jpg" alt="driving through redwood forest on highway" width="434" height="290"/> 
+		<img src="images/redwoods/redwood03.jpg" alt="couple looking out into the distance" width="434" height="290"/>
+		<img src="images/redwoods/redwood06.jpg" alt="stream in a canyon" width="194" height="290"/> 
+		<img src="images/redwoods/redwood01.jpg" alt="detail of redwood bark" width="194" height="290"/> 
+		<img src="images/redwoods/redwood07.jpg" alt="victorian town clock" width="194" height="290"/> 
+		<img src="images/redwoods/redwood09.jpg" alt="detail of tree bark" width="194" height="290"/>
+		<img src="images/redwoods/redwood08.jpg" alt="coastal view at patrick's point" width="434" height="290"/> 
+	</div>
+	
+</div>
+
+<div id="bottom">
+	<p>_Photography </p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

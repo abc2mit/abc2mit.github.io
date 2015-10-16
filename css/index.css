@@ -1,0 +1,58 @@
+body {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 9px;
+	color: #aaaaaa;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #aaaaaa;
+	letter-spacing: 2px;
+}
+
+a.special:hover {
+	padding: 2px 2px 2px 2px;
+	border: 1px dotted #ff9933;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #ff9933;
+}
+
+a#separated_left {
+	border-right: dotted 1px #ff9933;
+	padding: 10px 0 0 0;
+}
+
+a#separated_right {
+	padding: 0 0 0 5px;
+}
+
+img {
+	border: 0 0 0 0;
+}
+
+.main {
+	text-align: center;
+}
+
+#dict {
+	text-align: left;
+	width: 50%;
+	font-size: 11px;
+	border: 1px dotted #aaaaaa;
+	padding: 10px 10px 10px 10px;
+}
+
+#enter {
+	padding: 20px 20px 20px 20px;
+}
+
+#validation {
+	padding: 20px 20px 20px 20px;
+}
+
+
+

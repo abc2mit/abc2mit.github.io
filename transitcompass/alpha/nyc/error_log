@@ -1,0 +1,11 @@
+[12-Aug-2008 22:28:30] PHP Fatal error:  Allowed memory size of 31457280 bytes exhausted (tried to allocate 7680 bytes) in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm.php(326) : eval()'d code on line 1
+[12-Aug-2008 22:28:45] PHP Fatal error:  Allowed memory size of 31457280 bytes exhausted (tried to allocate 7680 bytes) in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm.php(326) : eval()'d code on line 1
+[12-Aug-2008 22:30:40] PHP Fatal error:  Allowed memory size of 31457280 bytes exhausted (tried to allocate 7680 bytes) in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm.php(326) : eval()'d code on line 1
+[12-Aug-2008 22:34:13] PHP Fatal error:  Allowed memory size of 31457280 bytes exhausted (tried to allocate 7680 bytes) in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm.php(326) : eval()'d code on line 1
+[12-Aug-2008 22:38:35] PHP Fatal error:  Allowed memory size of 31457280 bytes exhausted (tried to allocate 7680 bytes) in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm.php(326) : eval()'d code on line 1
+[12-Aug-2008 22:42:16] PHP Fatal error:  Allowed memory size of 31457280 bytes exhausted (tried to allocate 7680 bytes) in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/algorithm.php(326) : eval()'d code on line 1
+[12-Aug-2008 22:54:37] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/functions.php on line 256
+[13-Aug-2008 09:26:31] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/functions.php on line 256
+[13-Aug-2008 09:31:58] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/functions.php on line 256
+[13-Aug-2008 16:59:34] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/functions.php on line 256
+[15-Aug-2008 09:05:40] PHP Fatal error:  Call to a member function getLng() on a non-object in /home/michaeq6/public_html/transitcompass/alpha/subwayoop/functions.php on line 256

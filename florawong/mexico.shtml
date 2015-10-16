@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 01.10
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_photography_mexico </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user interface, user experience" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="mexico.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>Mexico \ </p>
+	<p>Three ports <span id="date">/ Nov.08</span> </p>
+
+	<div class="description">
+		<p>_Cabo San Lucas is a city at the southern tip of the Baja California peninsula <br />
+		_Mazatl&aacute;n is the sportfishing capital of the world <br /> 
+		_Puerto Vallarta is a Mexican resort city situated on the Pacific Ocean's Bah&iacute;a de Banderas
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/mexico/cabo san lucas/crane.jpg" alt="picture of crane by the shore" width="410" height="274"/>
+		<img src="images/mexico/puerto vallarta/motorcyclist.jpg" alt="picture of motorcyclist riding on the street" width="410" height="274"/>
+		<img src="images/mexico/puerto vallarta/skies.jpg" alt="picture of sunset with sculpture" width="432" height="289"/> 
+		<img src="images/mexico/puerto vallarta/shores.jpg" alt="picture of waves splashing up on the rocks near shore" width="194" height="289"/> 
+		<img src="images/mexico/puerto vallarta/marcus.jpg" alt="picture of child on the beach" width="194" height="289"/>
+		<img src="images/mexico/cabo san lucas/parade.jpg" alt="picture of girls on horseback in a parade" width="410" height="274"/>
+		<img src="images/mexico/puerto vallarta/birdcage.jpg" alt="front of a local home" width="410" height="274"/>
+	</div>
+	
+</div>
+
+<div id="bottom">
+	<p>_Photography </p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

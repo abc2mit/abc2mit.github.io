@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 10.11
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_photography_montana</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user interface, user experience" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="montana.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>Montana \ </p>
+	<p>Glacier National Park <span id="date">/ Sept.11</span> </p>
+
+	<div class="description">
+		<p>_This vast pristine ecosystem is the centerpiece of what has been referred to as the "Crown of the Continent Ecosystem", a region of protected land encompassing 16,000 square miles. Designated as the world's first International Peace Park in 1932 and as a World Heritage site in 1995.<br />
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/montana/hiddenlake.jpg" alt="Panoramic view taken from Hidden Lake Trail" width="824" height="142"/> 
+		<img src="images/montana/grinnelllake.jpg" alt="View taken from Grinnell Glacier Trail" width="194" height="290"/>
+		<img src="images/montana/iceberg.jpg" alt="Ice on Iceburg Lake" width="194" height="290"/> 
+		<img src="images/montana/mountaingoat.jpg" alt="Big horn sheep on the trail" width="432" height="290"/> 
+		<img src="images/montana/purpledaisy.jpg" alt="Zoomed in purple daisies" width="412" height="275"/> 
+		<img src="images/montana/iceberglake.jpg" alt="View of Iceberg Lake" width="410" height="275"/>
+	</div>
+	
+</div>
+
+<div id="bottom">
+	<p>_Photography  </p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

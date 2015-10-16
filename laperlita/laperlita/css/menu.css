@@ -1,0 +1,54 @@
+body {
+	color: #000000;
+}
+
+#topsection a {
+	text-decoration: none;
+}
+
+#topsection a:visited {
+	text-decoration: none;
+}
+
+div.note {
+	font-size: 14px;
+	font-style: italic;
+	text-align: center;
+}
+
+div.desc {
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+div.item {
+	position: relative;
+/*	border: solid 1px;*/
+	padding: 2px;
+	margin: 2px;
+/*	background-color: #CCFFCC;*/
+/*	background-color: #19A319;*/
+/*	background-color: #E6E6E6;*/
+}
+
+div.addon strong.name {
+	font-size: 12px;
+}
+
+div.option strong.name {
+	font-size: 12px;
+}
+
+h6 {
+	font-size: 10px;
+	font-weight: normal;
+}
+
+span.price {
+	position: absolute;
+	right: 2px;
+}
+
+strong.name {
+	font-size: 14px;
+}

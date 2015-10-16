@@ -1,0 +1,116 @@
+	
+	div#slidergallery{
+		/* width:516px;	 Total width of slideshow */
+		text-align:center !important;
+	}
+	
+	#previewPane{
+		/*border:1px solid #CCCCCC;*/
+		margin-bottom:10px;	
+		text-align:center !important;
+		vertical-align:middle;
+		padding-top:10px;
+     
+		position:relative;
+		
+		/* CSS HACK */
+		/*height: 432px;	/* IE 5.x */
+		/*height/* :/**//*400px;*/	/* Other browsers */
+		/*height:*/ /**//*400px;*/
+				
+	}
+	#previewPane img{
+		line-height:400px;
+		padding:0px 6px;
+	}
+	#previewPane #largeImageCaption{	/* CSS styling of image caption below large image */
+		font-style:normal;
+		text-align:center;
+		font-family: Arial, Helvetica, sans-serif;	/* Font to use */
+		font-size:12px;
+		padding-top:12px;
+		font-weight:bold;
+		color:#000;
+	}
+	#galleryContainer{
+		
+		height:102px;	/* Height of the images + 2 */
+		/*border:1px solid #CCCCCC;*/
+		position:relative;
+		overflow:hidden;
+		padding:1px;
+		
+		/* CSS HACK */
+		height: 104px;	/* IE 5.x - Added 2 pixels for border left and right */
+		height/* */:/**/102px;	/* Other browsers */
+		height: /**/102px;
+				
+	}
+	#arrow_left{
+		position:absolute;
+		left:0px;
+		z-index:10;
+		background-color: #FFF;
+		padding:1px;
+	}
+	#arrow_right{
+		position:absolute;
+		right:0px;
+		z-index:10;
+		background-color: #FFF;
+		padding:1px;		
+	}
+	#theImages{
+		position:absolute;
+		height:100px;
+		left:40px;
+		width:100000px;
+		
+	}
+	#theImages #slideEnd{
+		float:left;
+	}
+	#theImages img{
+		float:left;
+		padding:1px;
+		filter: alpha(opacity=50);
+		opacity: 0.5;
+		cursor:pointer;
+		border:0px;
+	}
+/*
+	#waitMessage{
+		display:none;
+		position:absolute;
+		left:200px;
+		top:150px;
+		background-color:#000;
+		border:3px double #CCC;
+		padding:4px;
+		color:#FFF;
+		font-size:0.9em;
+		font-family:arial;	
+	}
+	*/
+	#waitMessage{
+		display:none;
+		position:absolute;
+		left:0px;
+		top:0px;		
+		margin:11px;		
+		/*background:#DDD url(../images/loading1.gif) no-repeat scroll 50% 50%;*/
+		background:#DDD url(../images/loading1.gif) no-repeat scroll 50% 50%;
+		opacity:0.6;
+	}
+	
+	#theImages .imageCaption{
+		display:none;
+	}
+	
+	#link{ text-align:right;}
+	
+	#link a{
+		text-decoration:none;		
+		font-size:7px;
+	}
+	#link a:hover{ text-decoration:none;}

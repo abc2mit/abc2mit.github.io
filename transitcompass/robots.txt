@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /js
+Disallow: /css
+Disallow: /images
+Disallow: /subwayoop
+Disallow: /subwaydb
+Disallow: /subwayxml

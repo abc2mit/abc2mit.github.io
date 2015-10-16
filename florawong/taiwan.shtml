@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 10.11
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_photography_taiwan</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, web design, design portfolio, visual design, user interface, user experience" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="taiwan.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>Taiwan \ </p>
+	<p>Taipei <span id="date">/ Sept.14</span> </p>
+
+	<div class="description">
+		<p>_The island of Taiwan (formerly known as "Formosa") was mainly inhabited by Taiwanese aborigines until the Dutch and Spanish settlement during the Age of Discovery in the 17th century, when Han Chinese began immigrating to the island. In the 1980s and early 1990s, Taiwan evolved into a multi-party democracy with universal suffrage.<br />
+		</p>
+	</div>
+	
+	<div class="samples">
+		<img src="images/taiwan/SongShanCulturalandCreativePark.jpg" alt="Song Shan Cultural and Creative Park" width="445" height="250"/> 
+		<img src="images/taiwan/TaipeiStreets.jpg" alt="The Streets of Taipei" width="445" height="250"/> 
+		<img src="images/taiwan/StreetsofTW.jpg" alt="Street corner in Taiwan" width="296" height="296"/> 
+		<img src="images/taiwan/TeaTime.jpg" alt="Calamari on a Potato Roll" width="296" height="296"/> 
+		<img src="images/taiwan/PipandPop.jpg" alt="Pip and Pop Sugar Exhibition" width="296" height="296"/>
+		<img src="images/taiwan/Blurwindow.JPG" alt="Looking through window into an art exhibit" width="445" height="250"/> 
+		<img src="images/taiwan/Four Four South Village.jpg" alt="Four Four South Village Cultural Park" width="445" height="250"/> 
+	</div>
+	
+</div>
+
+<div id="bottom">
+	<p>_Photography </p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>

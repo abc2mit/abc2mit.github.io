@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+Author: Flora Wong
+Date Created: 01.10
+Copyright © 2014
+-->
+
+<head>
+
+	<title> flow by design_portfolio </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<meta http-equiv="Content-Language" content="en-us" />
+   	<meta name="description" content="website for my design portfolio" />
+   	<meta name="keywords" content="graphic design, design, print design, photography, advertising, web design, visual design, user experience, user interface, portfolio, hp, hewlett packard, cisco, cisco systems, charles schwab, santa clara, bay area, san francisco, san jose" />
+   	<link rel="stylesheet" href="template.css" type="text/css" media="screen" />
+   	<link rel="stylesheet" href="index.css" type="text/css" media="screen" />
+
+</head>
+
+<body>
+<div id="container">
+
+<!--header goes here-->
+<!--#exec cgi="cgi-bin/header.cgi"--> 
+
+<div id="content">
+	
+	<p>&ldquo;One day...</p>
+	
+	<div class="story">
+	<p>as I had my stereo cranked up high, my nose glued to the song lyrics and my fingerprints trailing all over the sleeves, a sweet thought came to my mind.</p>
+	
+	<p>*Wouldn&rsquo;t it be great to do this all day? </p>
+	
+	<p>I glanced over to my bookshelf stuffed with regular sized jewel cases to gynormous irregular shaped cases.  As I savored every beat &amp; riff and mesmerized over every word &amp; drawing, a light bulb lit. </p>
+	
+	<p>*Wouldn&rsquo;t it be fun to make my own covers? </p>
+	
+	<p>I started to put together my own mixed discs and make my own labels for each. I made sure the song list was in order and every title spelled correctly. As I smiled over my own creation, I had an epiphany. </p>
+	
+	<p>*Wouldn&rsquo;t it be great to do this for a living? </p>
+	
+	<p>It was that simple! I would design cd covers &amp; artists would send me a copy of my newest creation. I would get free music and artists would get custom designs. A great exchange it was. I was set...&rdquo; </p>
+	
+	<p>*Was this a fleeting thought or an aspiration? &nbsp; <strong><a href="about.shtml#about" title="click to continue the story"> >>> </a></strong></p>
+	</div>
+	
+</div>
+
+<div id="bottom">
+	<p>Welcome to Flow By Design &nbsp;<a href="https://twitter.com/ulowtoe"><img src="images/twitter-icon.png" alt="twitter icon" width="15" height="15"/></a> <a href="https://www.behance.net/flowbydesign"><img src="images/behance-icon.png" alt="behanced icon" width="15" height="15"/></a> <a href="https://www.linkedin.com/in/flowbydesign"><img src="images/linkedin-icon.png" alt="linkedin icon" width="15" height="15"/></a> </p>
+	
+	<div class="copy">
+	<p>&copy; 2014 Flora Wong. All rights reserved.</p>
+	</div>
+</div>
+
+</div>
+</body>
+</html>

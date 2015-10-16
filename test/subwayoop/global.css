@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial;
+    margin-top: 5px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 0px;
+}
+td .scell {
+    border-top: 1px solid #576625;
+    background-color: #a5b254;
+    padding: 1px 10px 1px 10px;
+    margin: 0 10px 0 10px;
+    font-family: Arial;
+    font-size: 14px;
+}
+td .scell_selected {
+    border-top: 1px solid #576625;
+    background-color: #576625;
+    color: #FFFFFF;
+    padding: 1px 10px 1px 10px;
+    margin: 0 10px 0 10px;
+    font-family: Arial;
+    font-size: 14px;
+}

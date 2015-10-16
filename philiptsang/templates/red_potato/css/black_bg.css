@@ -1,0 +1,49 @@
+/* black */
+#page_bg {
+	background: #252525;
+}
+
+div#wrapper {
+		background: #000000 url(../images/black/rp_shadow_l.png) 0 0 repeat-y;
+		margin-top: -10px;
+}
+
+div#wrapper_r {
+	background: url(../images/black/rp_shadow_r.png) 100% 0 repeat-y;
+}
+
+div#header {
+	background-color: #000000;
+	z-index: 3;
+}
+
+div#header_l {
+
+}
+
+div#header_r {
+
+}
+
+
+div#menutop {
+	position: absolute;
+	margin: 23px 0 0 300px;
+	width: 670px;
+}
+
+div#menutop2 {
+	margin: 78px 0 0 0;
+}
+
+div#footer {
+	background-color: #252525;
+}
+
+div#footer_l {
+	background-color: #252525;
+}
+
+div#footer_r {
+	background-color: #252525;
+}
